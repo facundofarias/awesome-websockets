@@ -190,7 +190,7 @@ Please, read the [Contribution Guidelines](https://github.com/facundofarias/awes
 
 Feel free to [open an issue](https://github.com/facundofarias/awesome-websockets/issues) or [create a pull request](https://github.com/facundofarias/awesome-websockets/pulls) with your additions.
 
-:star2: Thank you!
+Thanks!
 
 ## Acknowledgments
 
