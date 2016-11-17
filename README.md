@@ -6,18 +6,13 @@ A curated list of WebSockets related principles and technologies.
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**
 
-- [Platforms](#platforms)
-- [Runtimes](#runtimes)
-- [Service Toolkits](#service-toolkits)
+- [Tools per Language](#tools-per-language)
   - [Agnostic](#agnostic)
   - [C](#c)
   - [C++](#c)
-  - [D](#d)
-  - [Erlang VM](#erlang-vm)
-    - [Elixir](#elixir)
-    - [Erlang](#erlang)
+  - [C](#c-1)
+  - [Erlang](#erlang)
   - [Go](#go)
-  - [Haskell](#haskell)
   - [Java VM](#java-vm)
     - [Clojure](#clojure)
     - [Java](#java)
@@ -27,48 +22,15 @@ A curated list of WebSockets related principles and technologies.
   - [PHP](#php)
   - [Python](#python)
   - [Ruby](#ruby)
-- [Capabilities](#capabilities)
-  - [API Gateways / Edge Services](#api-gateways--edge-services)
-  - [Configuration and Discovery](#configuration-and-discovery)
-  - [Security](#security)
-  - [Job Schedulers / Workload Automation](#job-schedulers--workload-automation)
-  - [Elasticity](#elasticity)
-  - [Messaging](#messaging)
-  - [Serialization](#serialization)
-  - [Storage](#storage)
-  - [Reactivity](#reactivity)
-  - [Resilience](#resilience)
-  - [Testing](#testing)
-  - [Monitoring and Debugging](#monitoring-and-debugging)
-  - [Logging](#logging)
-- [IT Automation / Provisioning](#it-automation--provisioning)
-- [Deployment and Continuous Integration](#deployment-and-continuous-integration)
-  - [On-prem](#on-prem)
-  - [Hosted](#hosted)
-  - [Lightweight](#lightweight)
-- [Containers](#containers)
-- [Documentation & Modeling](#documentation--modeling)
-  - [REST APIs](#rest-apis)
-- [Standards / Recommendations](#standards--recommendations)
-  - [World Wide Web](#world-wide-web)
-  - [HTTP/1.1](#http11)
-  - [HTTP/2](#http2)
-  - [CoAP](#coap)
-  - [RPC](#rpc)
-  - [Messaging](#messaging-1)
-  - [Security](#security-1)
-  - [Service Discovery](#service-discovery)
-  - [Data Formats](#data-formats)
-  - [Vocabularies](#vocabularies)
-  - [Unicode](#unicode)
+  - [Protocols and APIs](#protocols-and-apis)
 - [Real Life Stories](#real-life-stories)
+- [Security](#security)
 - [Theory](#theory)
   - [Articles & Papers](#articles--papers)
   - [Talks](#talks)
   - [Tutorials](#tutorials)
   - [Books](#books)
   - [Sites](#sites)
-- [Emerging Technologies](#emerging-technologies)
 - [License](#license)
 - [Contributing](#contributing)
 - [Acknowledgments](#acknowledgments)
@@ -79,11 +41,13 @@ A curated list of WebSockets related principles and technologies.
 
 ### Agnostic
 
-- [websocketd](http://websocketd.com/) - WebSockets the UNIX way - Full duplex messaging between web browsers and servers.
+- [websocketd](http://websocketd.com) - WebSockets the UNIX way - Full duplex messaging between web browsers and servers.
+- [Nchan](https://nchan.slact.net) - Nchan is a scalable, flexible pub/sub server for the modern web, built as a module for the Nginx web server.
+- [Apache-websocket](https://github.com/disconnect/apache-websocket) - Apache WebSocket module.
 
 ### C
 
-- [libwebsockets](https://libwebsockets.org/) - It's a lightweight pure C library built to use minimal CPU and memory resources, and provide fast throughput in both directions as client or server.
+- [libwebsockets](https://libwebsockets.org) - It's a lightweight pure C library built to use minimal CPU and memory resources, and provide fast throughput in both directions as client or server.
 - [libwebsock](https://github.com/payden/libwebsock) - C library for easy WebSockets server.
 - [Websocket](https://github.com/mortzdk/Websocket) -  A websocket server written in C.
 
@@ -93,6 +57,11 @@ A curated list of WebSockets related principles and technologies.
 - [websocketpp](https://github.com/zaphoyd/websocketpp) - C++ websocket client/server library.
 - [QtWebSockets](http://wiki.qt.io/QtWebSockets) - The QtWebSockets module is an add-on for the Qt5 library.
 - [Beast](https://github.com/vinniefalco/Beast) - HTTP and WebSocket implementations built on Boost.Asio in C++11.
+
+### C#
+
+- [ASP.NET SignalR](http://signalr.net) - Incredibly simple real-time web for .NET.
+- [WebSocketListener](http://vtortola.github.io/WebSocketListener) - A lightweight and highly scalable asynchronous WebSocket server for .NET/Mono.
 
 ### Erlang
 
@@ -139,28 +108,41 @@ A curated list of WebSockets related principles and technologies.
 
 - [Ratchet](http://socketo.me/) - Ratchet is a loosely coupled PHP library providing developers with tools to create real time, bi-directional applications between clients and servers over WebSockets.
 - [Php-websocket](https://github.com/nekudo/php-websocket) - A simple PHP WebSocket implementation for PHP 5.3.
+- [Phpws](https://github.com/Devristo/phpws) - PHP Web Socket server.
 
 ### Python
 
 - [Websockets](https://websockets.readthedocs.io) - Websockets is a library for developing WebSocket servers and clients in Python.
-- [Ws4py](https://ws4py.readthedocs.io/en/latest/) - A WebSocket package for Python.
-- [WebSockets](https://websockets.readthedocs.io/en/stable/) - Python framework for building microservices.
+- [Ws4py](https://ws4py.readthedocs.io/en/latest) - A WebSocket package for Python.
+- [Autobahn.ws](http://autobahn.ws/) - Open-source real-time framework for Web, Mobile & Internet of Things.
 
 ### Ruby
 
-- [Hanami](https://github.com/hanami) - A modern web framework for Ruby.
-- [Praxis](https://github.com/rightscale/praxis) - Framework for both designing and implementing APIs.
+- [Em-websocket](https://github.com/igrigorik/em-websocket) - EventMachine based WebSocket server.
+- [Faye-websocket-ruby](https://github.com/faye/faye-websocket-ruby) - Standards-compliant WebSocket client and server.
+- [Websocket-driver-ruby](https://github.com/faye/websocket-driver-ruby) - WebSocket protocol handler with pluggable I/O.
+- [Websocket-ruby](https://github.com/imanel/websocket-ruby) - Universal Ruby library to handle WebSocket protocol.
 - [Scorched](https://github.com/wardrop/Scorched) - Light-weight web framework for Ruby.
+- [Firehose](http://firehose.io/) - Build realtime Ruby web applications. Created by the fine folks at Poll Everywhere.
 
-### Data Formats
+### Protocols and APIs
 
-- [RFC4627](https://tools.ietf.org/html/rfc4627) - JavaScript Object Notation (JSON).
 - [RFC6455](https://tools.ietf.org/html/rfc6455) - The WebSocket Protocol.
+- [The WebSocket API](https://www.w3.org/TR/2011/WD-websockets-20110419) - The W3C The WebSocket API.
+- [Hixie76](https://tools.ietf.org/html/draft-hixie-thewebsocketprotocol-76) - The WebSocket protocol draft-hixie-thewebsocketprotocol-76
 
 ## Real Life Stories
 
-- [Clean microservice architecture](http://blog.cleancoder.com/uncle-bob/2014/10/01/CleanMicroserviceArchitecture.html)
+- [The top 10 realtime web apps](http://www.creativebloq.com/app-design/top-10-realtime-web-apps-5133752)
+- [Super sync sports](https://blog.chromium.org/2013/02/on-track-with-chrome-super-sync-sports.html)
+- [Firepad](https://firepad.io)
+- [JabbR](http://about.jabbr.net/)
+- [Kaazing](https://kaazing.com/)
 
+## Security
+
+- [WebSockets - An Introduction](https://gist.github.com/subudeepak/9897212) - The problems and some security implications of websockets - Cross-site WebSockets Scripting (XSWS).
+- [Hacking with WebSockets](https://media.blackhat.com/bh-us-12/Briefings/Shekyan/BH_US_12_Shekyan_Toukharian_Hacking_Websocket_Slides.pdf) - A talk on Blackhat USA 2012 Conference.
 
 ## Theory
 
@@ -172,7 +154,10 @@ A curated list of WebSockets related principles and technologies.
 - [Node.js WebSocket](https://medium.com/@denizozger/finding-the-right-node-js-websocket-implementation-b63bfca0539#.q2313as8p) - Finding the right Node.js WebSocket implementation.
 - [Websockets 101](http://lucumr.pocoo.org/2012/9/24/websockets-101/) - Armin Ronacher's Thoughts and Writings (creator of Flask).
 - [Real-time Apps](https://www.sitepoint.com/real-time-apps-websockets-server-sent-events/) - Building Real-time Apps with Websockets & Server-Sent Events.
-
+- [Real-Time Web by Paul Banks](https://banksco.de/p/state-of-realtime-web-2016.html) - The State of Real-Time Web in 2016.
+- [Are WebSockets the future?](https://samsaffron.com/archive/2015/12/29/websockets-caution-required) - WebSockets, caution required!
+- [MSDN Microsoft Blog](https://msdn.microsoft.com/en-us/hh563510.aspx) - The Dangers of HTML5: WebSockets and Stable Standards.
+- [Webpush Internet-Draft](https://martinthomson.github.io/drafts/draft-thomson-webpush-http2.html) - Generic Event Delivery Using HTTP Push.
 
 ### Talks
 
@@ -180,12 +165,9 @@ A curated list of WebSockets related principles and technologies.
 
 ### Tutorials
 
-- [Developing a RESTful Microservice in Python](http://www.skybert.net/python/developing-a-restful-micro-service-in-python/) - A story of how an aging Java project was replaced with a microservice built with Python and Flask.
-- [Game On!](https://game-on.org/) - Microservices architecture explained in the context of an old-school text-based adventure game.
-- [Microservices without the Servers](https://aws.amazon.com/blogs/compute/microservices-without-the-servers/) - Step by step demo-driven talk about serverless architecture.
-- Microservices in C#: [Part 1](http://insidethecpu.com/2015/07/17/microservices-in-c-part-1-building-and-testing/), [Part 2](http://insidethecpu.com/2015/07/31/microservices-in-c-part-2-consistent-message-delivery/), [Part 3](http://insidethecpu.com/2015/08/14/microservices-in-c-part-3-queue-pool-sizing/), [Part 4](http://insidethecpu.com/2015/08/28/microservices-in-c-part-4-scaling-out/), [Part 5](http://insidethecpu.com/2015/09/11/microservices-in-c-part-5-autoscaling/).
-- [Microservices with Python, RabbitMQ and Nameko](http://brunorocha.org/python/microservices-with-python-rabbitmq-and-nameko.html)
-- [Using Packer and Ansible to build immutable infrastructure](https://blog.codeship.com/packer-ansible/)
+- [Honeybadger.IO](http://blog.honeybadger.io/building-a-simple-websockets-server-from-scratch-in-ruby) - Building a simple websockets server from scratch in Ruby.
+- [Engineyard](https://blog.engineyard.com/2013/getting-started-with-ruby-and-websockets) - Getting Started with Ruby and WebSockets.
+
 
 ### Books
 
@@ -195,7 +177,7 @@ A curated list of WebSockets related principles and technologies.
 
 ### Sites
 
-- [WebSocket ORG](http://websocket.org/) - The one-stop-shop for all your websocket needs.
+- [WebSocket ORG](http://websocket.org) - The one-stop-shop for all your websocket needs.
 - [WebSockets MDN](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API) - WebSockets Mozilla Developer Network (MDN).
 
 ## License
