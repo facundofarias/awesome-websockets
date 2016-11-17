@@ -48,7 +48,7 @@ A curated list of WebSockets related principles and technologies.
 
 ### C
 
-- [libwebsockets](https://libwebsockets.org) - It's a lightweight pure C library built to use minimal CPU and memory resources, and provide fast throughput in both directions as client or server.
+- [libwebsockets](http://libwebsockets.org) - It's a lightweight pure C library built to use minimal CPU and memory resources, and provide fast throughput in both directions as client or server.
 - [libwebsock](https://github.com/payden/libwebsock) - C library for easy WebSockets server.
 - [Websocket](https://github.com/mortzdk/Websocket) -  A websocket server written in C.
 
@@ -58,6 +58,7 @@ A curated list of WebSockets related principles and technologies.
 - [websocketpp](https://github.com/zaphoyd/websocketpp) - C++ websocket client/server library.
 - [QtWebSockets](http://wiki.qt.io/QtWebSockets) - The QtWebSockets module is an add-on for the Qt5 library.
 - [Beast](https://github.com/vinniefalco/Beast) - HTTP and WebSocket implementations built on Boost.Asio in C++11.
+- [µWebSockets](https://github.com/uWebSockets/uWebSockets) -  Highly scalable WebSocket server & client library.
 
 ### C#
 
@@ -129,7 +130,7 @@ A curated list of WebSockets related principles and technologies.
 ### Protocols and APIs
 
 - [RFC6455](https://tools.ietf.org/html/rfc6455) - The WebSocket Protocol.
-- [The WebSocket API](https://www.w3.org/TR/2011/WD-websockets-20110419) - The W3C The WebSocket API.
+- [The WebSocket API](https://www.w3.org/TR/websockets/) - The W3C The WebSocket API.
 - [Hixie76](https://tools.ietf.org/html/draft-hixie-thewebsocketprotocol-76) - The WebSocket protocol draft-hixie-thewebsocketprotocol-76
 
 ## Real Life Stories
