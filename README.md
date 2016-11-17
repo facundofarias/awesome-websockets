@@ -143,6 +143,10 @@ A curated list of WebSockets related principles and technologies.
 
 - [WebSockets - An Introduction](https://gist.github.com/subudeepak/9897212) - The problems and some security implications of websockets - Cross-site WebSockets Scripting (XSWS).
 - [Hacking with WebSockets](https://media.blackhat.com/bh-us-12/Briefings/Shekyan/BH_US_12_Shekyan_Toukharian_Hacking_Websocket_Slides.pdf) - A talk on Blackhat USA 2012 Conference.
+- [Testing WebSockets](https://www.owasp.org/index.php/Testing_WebSockets_(OTG-CLIENT-010)) - This article is part of the new OWASP Testing Guide v4.
+- [Websockets Auth](http://stratumsecurity.ghost.io/2016/06/13/websockets-auth) - Journey into WebSockets Authentication/Authorization.
+- [Kaazing](https://kaazing.com/2012/02/28/html5-websocket-security-is-strong) - HTML5 WebSocket Security is Strong.
+
 
 ## Theory
 
