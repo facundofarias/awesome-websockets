@@ -1,6 +1,7 @@
 # Awesome WebSockets
 
 A curated list of WebSockets related principles and technologies.
+[![Build Status](https://travis-ci.org/facundofarias/awesome-websockets.svg?branch=master)](https://travis-ci.org/facundofarias/awesome-websockets)
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
