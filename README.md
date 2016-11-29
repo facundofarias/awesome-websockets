@@ -42,20 +42,20 @@ A curated list of WebSockets related principles and technologies.
 
 ### Agnostic
 
-- [websocketd](http://websocketd.com) - WebSockets the UNIX way - Full duplex messaging between web browsers and servers.
+- [Websocketd](http://websocketd.com) - WebSockets the UNIX way - Full duplex messaging between web browsers and servers.
 - [Nchan](https://nchan.slact.net) - Nchan is a scalable, flexible pub/sub server for the modern web, built as a module for the Nginx web server.
 - [Apache-websocket](https://github.com/disconnect/apache-websocket) - Apache WebSocket module.
 
 ### C
 
-- [libwebsockets](http://libwebsockets.org) - It's a lightweight pure C library built to use minimal CPU and memory resources, and provide fast throughput in both directions as client or server.
-- [libwebsock](https://github.com/payden/libwebsock) - C library for easy WebSockets server.
+- [Libwebsockets](http://libwebsockets.org) - It's a lightweight pure C library built to use minimal CPU and memory resources, and provide fast throughput in both directions as client or server.
+- [Libwebsock](https://github.com/payden/libwebsock) - C library for easy WebSockets server.
 - [Websocket](https://github.com/mortzdk/Websocket) -  A websocket server written in C.
 
 ### C++
 <!-- #c-1 anchor -->
 
-- [websocketpp](https://github.com/zaphoyd/websocketpp) - C++ websocket client/server library.
+- [Websocketpp](https://github.com/zaphoyd/websocketpp) - C++ websocket client/server library.
 - [QtWebSockets](http://wiki.qt.io/QtWebSockets) - The QtWebSockets module is an add-on for the Qt5 library.
 - [Beast](https://github.com/vinniefalco/Beast) - HTTP and WebSocket implementations built on Boost.Asio in C++11.
 - [µWebSockets](https://github.com/uWebSockets/uWebSockets) -  Highly scalable WebSocket server & client library.
@@ -67,14 +67,15 @@ A curated list of WebSockets related principles and technologies.
 
 ### Erlang
 
-- [sockjs-erlang](https://github.com/sockjs/sockjs-erlang) - WebSocket emulation - Erlang server.
+- [Sockjs-erlang](https://github.com/sockjs/sockjs-erlang) - WebSocket emulation - Erlang server.
 - [Cowboy](https://github.com/ninenines/cowboy) - Small, fast, modular HTTP server written in Erlang.
-- [bullet](https://github.com/ninenines/bullet) - Simple, reliable, efficient streaming for Cowboy.
+- [Bullet](https://github.com/ninenines/bullet) - Simple, reliable, efficient streaming for Cowboy.
+- [Kraken](https://github.com/Asana/kraken) - Distributed Pubsub Server for Realtime Apps.
 
 ### Go
 
 - [Gorilla Websocket Toolkit](http://www.gorillatoolkit.org/pkg/websocket) - A WebSocket implementation for Go.
-- [websocket](https://godoc.org/golang.org/x/net/websocket) - Package websocket implements a client and server for the WebSocket protocol as specified in RFC 6455.
+- [Websocket](https://godoc.org/golang.org/x/net/websocket) - Package websocket implements a client and server for the WebSocket protocol as specified in RFC 6455.
 
 ### Java VM
 
@@ -89,6 +90,7 @@ A curated list of WebSockets related principles and technologies.
 - [Project Tyrus](https://tyrus.java.net/) - JSR 356: Java API for WebSocket - Reference Implementation.
 - [Java-WebSocket](https://github.com/TooTallNate/Java-WebSocket) - A barebones WebSocket client and server implementation written in 100% Java.
 - [Atmosphere](https://github.com/Atmosphere/atmosphere) - Realtime Client Server Framework for the JVM, supporting WebSockets with Cross-Browser Fallbacks.
+- [Webbit](https://github.com/webbit/webbit) - A Java event based WebSocket and HTTP server.
 
 #### Scala
 
