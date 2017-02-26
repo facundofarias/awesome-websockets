@@ -46,7 +46,7 @@ A curated list of WebSockets related principles and technologies.
 - [Nchan](https://nchan.slact.net) - Nchan is a scalable, flexible pub/sub server for the modern web, built as a module for the Nginx web server.
 - [Apache-websocket](https://github.com/disconnect/apache-websocket) - Apache WebSocket module.
 
-### C\# 
+### C
 
 - [Libwebsockets](http://libwebsockets.org) - It's a lightweight pure C library built to use minimal CPU and memory resources, and provide fast throughput in both directions as client or server.
 - [Libwebsock](https://github.com/payden/libwebsock) - C library for easy WebSockets server.
@@ -60,7 +60,7 @@ A curated list of WebSockets related principles and technologies.
 - [Beast](https://github.com/vinniefalco/Beast) - HTTP and WebSocket implementations built on Boost.Asio in C++11.
 - [µWebSockets](https://github.com/uWebSockets/uWebSockets) -  Highly scalable WebSocket server & client library.
 
-### C#
+### C\# 
 
 - [ASP.NET SignalR](http://signalr.net) - Incredibly simple real-time web for .NET.
 - [WebSocketListener](http://vtortola.github.io/WebSocketListener) - A lightweight and highly scalable asynchronous WebSocket server for .NET/Mono.
