@@ -1,7 +1,8 @@
 # Awesome WebSockets [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A curated list of WebSockets related principles and technologies.
-[![Build Status](https://travis-ci.org/facundofarias/awesome-websockets.svg?branch=master)](https://travis-ci.org/facundofarias/awesome-websockets)
+
+[WebSocket](https://en.wikipedia.org/wiki/WebSocket) is a computer communications protocol, providing full-duplex communication channels over a single TCP connection. The WebSocket protocol was standardized by the IETF as RFC 6455 in 2011, and the WebSocket API in Web IDL is being standardized by the W3C.
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
@@ -50,20 +51,20 @@ A curated list of WebSockets related principles and technologies.
 
 - [Libwebsockets](http://libwebsockets.org) - It's a lightweight pure C library built to use minimal CPU and memory resources, and provide fast throughput in both directions as client or server.
 - [Libwebsock](https://github.com/payden/libwebsock) - C library for easy WebSockets server.
-- [Websocket](https://github.com/mortzdk/Websocket) -  A websocket server written in C.
+- [Websocket](https://github.com/mortzdk/Websocket) -  Websocket server written in C.
 
 ### C++
 <!-- #c-1 anchor -->
 
-- [Websocketpp](https://github.com/zaphoyd/websocketpp) - C++ websocket client/server library.
+- [Websocketpp](https://github.com/zaphoyd/websocketpp) - C++ Websocket client/server library.
 - [QtWebSockets](http://wiki.qt.io/QtWebSockets) - The QtWebSockets module is an add-on for the Qt5 library.
 - [Beast](https://github.com/vinniefalco/Beast) - HTTP and WebSocket implementations built on Boost.Asio in C++11.
 - [µWebSockets](https://github.com/uWebSockets/uWebSockets) -  Highly scalable WebSocket server & client library.
 
-### C\# 
+### C\#
 
 - [ASP.NET SignalR](http://signalr.net) - Incredibly simple real-time web for .NET.
-- [WebSocketListener](http://vtortola.github.io/WebSocketListener) - A lightweight and highly scalable asynchronous WebSocket server for .NET/Mono.
+- [WebSocketListener](http://vtortola.github.io/WebSocketListener) - Lightweight and highly scalable asynchronous WebSocket server for .NET/Mono.
 
 ### Erlang
 
@@ -74,23 +75,23 @@ A curated list of WebSockets related principles and technologies.
 
 ### Go
 
-- [Gorilla Websocket Toolkit](http://www.gorillatoolkit.org/pkg/websocket) - A WebSocket implementation for Go.
-- [Websocket](https://godoc.org/golang.org/x/net/websocket) - Package websocket implements a client and server for the WebSocket protocol as specified in RFC 6455.
+- [Gorilla Websocket Toolkit](http://www.gorillatoolkit.org/pkg/websocket) - WebSocket implementation for Go.
+- [Websocket](https://godoc.org/golang.org/x/net/websocket) - Package Websocket implements a client and server for the WebSocket protocol as specified in RFC 6455.
 
 ### Java VM
 
 #### Clojure
 
 - [Sente](https://github.com/ptaoussanis/sente) - Realtime web comms for Clojure/Script.
-- [Chord](https://github.com/jarohen/chord) - A library designed to bridge the gap between the triad of CLJ/CLJS, web-sockets and core.async.
+- [Chord](https://github.com/jarohen/chord) - Library designed to bridge the gap between the triad of CLJ/CLJS, web-sockets and core.async.
 - [Luminusweb](http://www.luminusweb.net/docs/websockets.md) - Luminus is a Clojure micro-framework based on a set of lightweight libraries.
 
 #### Java
 
 - [Project Tyrus](https://tyrus.java.net/) - JSR 356: Java API for WebSocket - Reference Implementation.
-- [Java-WebSocket](https://github.com/TooTallNate/Java-WebSocket) - A barebones WebSocket client and server implementation written in 100% Java.
+- [Java-WebSocket](https://github.com/TooTallNate/Java-WebSocket) - Barebones WebSocket client and server implementation written in 100% Java.
 - [Atmosphere](https://github.com/Atmosphere/atmosphere) - Realtime Client Server Framework for the JVM, supporting WebSockets with Cross-Browser Fallbacks.
-- [Webbit](https://github.com/webbit/webbit) - A Java event based WebSocket and HTTP server.
+- [Webbit](https://github.com/webbit/webbit) - Java event based WebSocket and HTTP server.
 
 #### Scala
 
@@ -99,25 +100,25 @@ A curated list of WebSockets related principles and technologies.
 ### Node.js
 
 - [Socket.IO](http://socket.io/) - Featuring the fastest and most reliable real-time engine.
-- [Nodejs-websocket](https://github.com/sitegui/nodejs-websocket) - A node.js module for websocket server and client.
-- [WebSocket-Node](https://github.com/theturtle32/WebSocket-Node) - A WebSocket Implementation for Node.JS (Draft -08 through the final RFC 6455).
+- [Nodejs-websocket](https://github.com/sitegui/nodejs-websocket) - Node.js module for websocket server and client.
+- [WebSocket-Node](https://github.com/theturtle32/WebSocket-Node) - WebSocket Implementation for Node.JS (Draft -08 through the final RFC 6455).
 - [Sockjs-node](https://github.com/sockjs/sockjs-node) - WebSocket emulation - Node.js server.
 - [Ws](https://github.com/websockets/ws) - `ws`: The fastest cross platform RFC-6455 WebSocket implementation for Node.js.
 
 ### Perl
 
-- [Net::WebSocket::Server](http://search.cpan.org/~topaz/Net-WebSocket-Server-0.001003/lib/Net/WebSocket/Server.pm) - A straightforward Perl WebSocket server with minimal dependencies.
+- [Net::WebSocket::Server](http://search.cpan.org/~topaz/Net-WebSocket-Server-0.001003/lib/Net/WebSocket/Server.pm) - Straightforward Perl WebSocket server with minimal dependencies.
 
 ### PHP
 
 - [Ratchet](http://socketo.me/) - Ratchet is a loosely coupled PHP library providing developers with tools to create real time, bi-directional applications between clients and servers over WebSockets.
-- [Php-websocket](https://github.com/nekudo/php-websocket) - A simple PHP WebSocket implementation for PHP 5.3.
+- [Php-websocket](https://github.com/nekudo/php-websocket) - Simple PHP WebSocket implementation for PHP 5.3.
 - [Phpws](https://github.com/Devristo/phpws) - PHP Web Socket server.
 
 ### Python
 
 - [Websockets](https://websockets.readthedocs.io) - Websockets is a library for developing WebSocket servers and clients in Python.
-- [Ws4py](https://ws4py.readthedocs.io/en/latest) - A WebSocket package for Python.
+- [Ws4py](https://ws4py.readthedocs.io/en/latest) - WebSocket package for Python.
 - [Autobahn.ws](http://autobahn.ws) - Open-source real-time framework for Web, Mobile & Internet of Things.
 - [Tornado](http://www.tornadoweb.org/) - Tornado is a Python web framework and asynchronous networking library, originally developed at FriendFeed.
 
@@ -147,7 +148,7 @@ A curated list of WebSockets related principles and technologies.
 ## Security
 
 - [WebSockets - An Introduction](https://gist.github.com/subudeepak/9897212) - The problems and some security implications of websockets - Cross-site WebSockets Scripting (XSWS).
-- [Hacking with WebSockets](https://media.blackhat.com/bh-us-12/Briefings/Shekyan/BH_US_12_Shekyan_Toukharian_Hacking_Websocket_Slides.pdf) - A talk on Blackhat USA 2012 Conference.
+- [Hacking with WebSockets](https://media.blackhat.com/bh-us-12/Briefings/Shekyan/BH_US_12_Shekyan_Toukharian_Hacking_Websocket_Slides.pdf) - Talk on Blackhat USA 2012 Conference.
 - [Testing WebSockets](https://www.owasp.org/index.php/Testing_WebSockets_(OTG-CLIENT-010)) - This article is part of the new OWASP Testing Guide v4.
 - [Websockets Auth](http://stratumsecurity.ghost.io/2016/06/13/websockets-auth) - Journey into WebSockets Authentication/Authorization.
 - [Kaazing](https://kaazing.com/2012/02/28/html5-websocket-security-is-strong) - HTML5 WebSocket Security is Strong.
@@ -157,7 +158,7 @@ A curated list of WebSockets related principles and technologies.
 
 ### Articles & Papers
 
-- [An introduction to Websockets](http://blog.teamtreehouse.com/an-introduction-to-websockets) - A Brief History of Real-Time Web Applications.
+- [An introduction to Websockets](http://blog.teamtreehouse.com/an-introduction-to-websockets) - Brief History of Real-Time Web Applications.
 - [Introducing WebSockets: Bringing Sockets to the Web](https://www.html5rocks.com/en/tutorials/websockets/basics/) - The Problem: Low Latency Client-Server and Server-Client Connections.
 - [About HTML5 WebSocket](https://www.websocket.org/aboutwebsocket.html) - About HTML5 WebSocket.
 - [Node.js WebSocket](https://medium.com/@denizozger/finding-the-right-node-js-websocket-implementation-b63bfca0539#.q2313as8p) - Finding the right Node.js WebSocket implementation.
