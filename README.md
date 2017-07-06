@@ -105,6 +105,7 @@ A curated list of WebSockets related principles and technologies.
 - [Sockjs-node](https://github.com/sockjs/sockjs-node) - WebSocket emulation - Node.js server.
 - [Ws](https://github.com/websockets/ws) - `ws`: The fastest cross platform RFC-6455 WebSocket implementation for Node.js.
 - [deepstream.io](https://deepstream.io/) - Open realtime server a fast, secure and scalable realtime server for mobile, web & iot.
+- [websocket-as-promised](https://github.com/vitalets/websocket-as-promised) - Promise-based W3C WebSocket wrapper: allows to use promises when connecting, disconnecting and messaging with WebSocket server.
 
 ### Perl
 
