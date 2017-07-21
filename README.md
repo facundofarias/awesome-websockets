@@ -170,6 +170,7 @@ A curated list of WebSockets related principles and technologies.
 - [Are WebSockets the future?](https://samsaffron.com/archive/2015/12/29/websockets-caution-required) - WebSockets, caution required!
 - [MSDN Microsoft Blog](https://msdn.microsoft.com/en-us/hh563510.aspx) - The Dangers of HTML5: WebSockets and Stable Standards.
 - [Webpush Internet-Draft](https://martinthomson.github.io/drafts/draft-thomson-webpush-http2.html) - Generic Event Delivery Using HTTP Push.
+- [Full Stack Python](https://www.fullstackpython.com/websockets.html) - WebSockets on Python.
 
 ### Talks
 
