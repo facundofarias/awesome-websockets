@@ -59,7 +59,7 @@ A curated list of WebSockets related principles and technologies.
 - [Websocketpp](https://github.com/zaphoyd/websocketpp) - C++ Websocket client/server library.
 - [QtWebSockets](http://wiki.qt.io/QtWebSockets) - The QtWebSockets module is an add-on for the Qt5 library.
 - [Beast](https://github.com/vinniefalco/Beast) - HTTP and WebSocket implementations built on Boost.Asio in C++11.
-- [µWebSockets](https://github.com/uWebSockets/uWebSockets) -  Highly scalable WebSocket server & client library.
+- [µWebSockets](https://github.com/uNetworking/uWebSockets) -  Highly scalable WebSocket server & client library.
 
 ### C\#
 
