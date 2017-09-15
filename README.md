@@ -136,6 +136,9 @@ A curated list of WebSockets related principles and technologies.
 - [Websocket-ruby](https://github.com/imanel/websocket-ruby) - Universal Ruby library to handle WebSocket protocol.
 - [Scorched](https://github.com/wardrop/Scorched) - Light-weight web framework for Ruby.
 - [Firehose](http://firehose.io/) - Build realtime Ruby web applications. Created by the fine folks at Poll Everywhere.
+- [Slanger](https://github.com/stevegraham/slanger) - Open Pusher implementation compatible with Pusher libraries.
+- [render_sync](https://github.com/chrismccord/render_sync) - Real-time Rails Partials.
+- [websocket-rails](https://github.com/websocket-rails/websocket-rails) - Plug and play websocket support for ruby on rails.
 
 ### Protocols and APIs
 
