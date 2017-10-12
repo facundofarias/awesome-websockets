@@ -121,6 +121,7 @@ A curated list of WebSockets related principles and technologies.
 - [Ratchet](http://socketo.me/) - Ratchet is a loosely coupled PHP library providing developers with tools to create real time, bi-directional applications between clients and servers over WebSockets.
 - [Php-websocket](https://github.com/nekudo/php-websocket) - Simple PHP WebSocket implementation for PHP 5.3.
 - [Phpws](https://github.com/Devristo/phpws) - PHP Web Socket server.
+- [Sandstone](https://eole-io.github.io/sandstone/) - Microframework to build a real time Rest API.
 
 ### Python
 
