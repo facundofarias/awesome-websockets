@@ -190,6 +190,7 @@ A curated list of WebSockets related principles and technologies.
 
 - [Honeybadger.IO](http://blog.honeybadger.io/building-a-simple-websockets-server-from-scratch-in-ruby) - Building a simple websockets server from scratch in Ruby.
 - [Engineyard](https://blog.engineyard.com/2013/getting-started-with-ruby-and-websockets) - Getting Started with Ruby and WebSockets.
+- [David Walsh](https://davidwalsh.name/websocket) - WebSocket and Socket.IO.
 
 
 ### Books
@@ -197,6 +198,8 @@ A curated list of WebSockets related principles and technologies.
 - [WebSocket](http://shop.oreilly.com/product/0636920030485.do) - Lightweight Client-Server Communications. Andrew Lombardi.
 - [The Definitive Guide to HTML5 WebSocket](http://www.apress.com/gp/book/9781430247401) - Build Real-Time Applications with HTML5. By Vanessa Wang, Frank Salim, and Peter Moskovits. Source Code [here](https://github.com/Apress/def-guide-to-html5-websocket).
 - [Getting Started with HTML5 WebSocket Programming](http://javaarm.com/file/www/html/html5/websocket/books/Packt_Getting.Started.with.HTML5.WebSocket.Programming_Vangos.Pterneas_Aug.2013.pdf) - Develop and deploy your first secure and scalable real-time web application. Vangos Pterneas.
+- [High Performance Browser Networking](https://hpbn.co/websocket/) - High Performance
+Browser Networking: WebSocket.
 
 ### Sites
 
