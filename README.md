@@ -195,7 +195,7 @@ A curated list of WebSockets related principles and technologies.
 ### Books
 
 - [WebSocket](http://shop.oreilly.com/product/0636920030485.do) - Lightweight Client-Server Communications. Andrew Lombardi.
-- [The Definitive Guide to HTML5 WebSocket](http://dl.finebook.ir/book/6a/10947.pdf) - Build Real-Time Applications with HTML5. By Vanessa Wang, Frank Salim, and Peter Moskovits.
+- [The Definitive Guide to HTML5 WebSocket](http://www.apress.com/gp/book/9781430247401) - Build Real-Time Applications with HTML5. By Vanessa Wang, Frank Salim, and Peter Moskovits. Source Code [here](https://github.com/Apress/def-guide-to-html5-websocket).
 - [Getting Started with HTML5 WebSocket Programming](http://javaarm.com/file/www/html/html5/websocket/books/Packt_Getting.Started.with.HTML5.WebSocket.Programming_Vangos.Pterneas_Aug.2013.pdf) - Develop and deploy your first secure and scalable real-time web application. Vangos Pterneas.
 
 ### Sites
