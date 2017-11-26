@@ -173,7 +173,7 @@ A curated list of WebSockets related principles and technologies.
 
 - [An introduction to Websockets](http://blog.teamtreehouse.com/an-introduction-to-websockets) - Brief History of Real-Time Web Applications.
 - [Introducing WebSockets: Bringing Sockets to the Web](https://www.html5rocks.com/en/tutorials/websockets/basics/) - The Problem: Low Latency Client-Server and Server-Client Connections.
-- [About HTML5 WebSocket](https://www.websocket.org/aboutwebsocket.html) - About HTML5 WebSocket.
+- [About HTML5 WebSocket](https://websocket.org/aboutwebsocket.html) - About HTML5 WebSocket.
 - [Node.js WebSocket](https://medium.com/@denizozger/finding-the-right-node-js-websocket-implementation-b63bfca0539#.q2313as8p) - Finding the right Node.js WebSocket implementation.
 - [Websockets 101](http://lucumr.pocoo.org/2012/9/24/websockets-101/) - Armin Ronacher's Thoughts and Writings (creator of Flask).
 - [Real-time Apps](https://www.sitepoint.com/real-time-apps-websockets-server-sent-events/) - Building Real-time Apps with Websockets & Server-Sent Events.
@@ -204,7 +204,7 @@ Browser Networking: WebSocket.
 
 ### Sites
 
-- [WebSocket ORG](http://websocket.org) - The one-stop-shop for all your websocket needs.
+- [WebSocket ORG](https://websocket.org) - The one-stop-shop for all your websocket needs.
 - [WebSockets MDN](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API) - WebSockets Mozilla Developer Network (MDN).
 
 ## License
