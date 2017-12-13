@@ -157,6 +157,7 @@ A curated list of WebSockets related principles and technologies.
 - [Firepad](https://firepad.io)
 - [JabbR](http://about.jabbr.net/)
 - [Kaazing](https://kaazing.com/)
+- [Taskade](https://taskade.com) - Real-time collaborative task lists and outlines.
 
 ## Security
 
