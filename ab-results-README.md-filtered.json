@@ -1,0 +1,16 @@
+[
+  {
+    "loc": 176,
+    "status": -1,
+    "link": "https://www.websocket.org/aboutwebsocket.html",
+    "redirect": "",
+    "error": "Failed to open TCP connection to www.websocket.org:443 (Connection refused - connect(2) for \"www.websocket.org\" port 443)"
+  },
+  {
+    "loc": 207,
+    "status": -1,
+    "link": "http://websocket.org",
+    "redirect": "",
+    "error": "Failed to open TCP connection to websocket.org:80 (Connection refused - connect(2) for \"websocket.org\" port 80)"
+  }
+]
