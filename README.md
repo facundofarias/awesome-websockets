@@ -79,6 +79,7 @@ A curated list of WebSockets related principles and technologies.
 
 - [Gorilla Websocket Toolkit](http://www.gorillatoolkit.org/pkg/websocket) - WebSocket implementation for Go.
 - [Websocket](https://godoc.org/golang.org/x/net/websocket) - Package Websocket implements a client and server for the WebSocket protocol as specified in RFC 6455.
+- [Ws](https://github.com/gobwas/ws) - Tiny WebSocket library for Go.
 
 ### Java VM
 
