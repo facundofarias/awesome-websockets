@@ -67,6 +67,7 @@ A curated list of WebSockets related principles and technologies.
 
 - [ASP.NET SignalR](http://signalr.net) - Incredibly simple real-time web for .NET.
 - [WebSocketListener](http://vtortola.github.io/WebSocketListener) - Lightweight and highly scalable asynchronous WebSocket server for .NET/Mono.
+- [websocket-rpc](https://github.com/dajuric/websocket-rpc) - WebSocket RPC library for .NET with auto JavaScript client code generation, supporting ASP.NET Core.
 
 ### Erlang
 
