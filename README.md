@@ -11,8 +11,8 @@ A curated list of WebSockets related principles and technologies.
 - [Tools per Language](#tools-per-language)
   - [Agnostic](#agnostic)
   - [C](#c)
-  - [C++](#c)
-  - [C\# ](#c-1)
+  - [C++](#c-1)
+  - [C\# ](#c-2)
   - [Erlang](#erlang)
   - [Go](#go)
   - [Java VM](#java-vm)
@@ -64,6 +64,7 @@ A curated list of WebSockets related principles and technologies.
 - [Simple-WebSocket-Server](https://github.com/eidheim/Simple-WebSocket-Server) -  A very simple, fast, multithreaded, platform independent WebSocket (WS) and WebSocket Secure (WSS) server and client library implemented using C++11, Boost.Asio and OpenSSL.
 
 ### C\#
+<!-- #c-2 anchor -->
 
 - [ASP.NET SignalR](http://signalr.net) - Incredibly simple real-time web for .NET.
 - [WebSocketListener](http://vtortola.github.io/WebSocketListener) - Lightweight and highly scalable asynchronous WebSocket server for .NET/Mono.
