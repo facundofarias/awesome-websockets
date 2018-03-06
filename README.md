@@ -26,6 +26,7 @@ A curated list of WebSockets related principles and technologies.
   - [Ruby](#ruby)
   - [Protocols and APIs](#protocols-and-apis)
 - [Real Life Stories](#real-life-stories)
+- [Command-Line Interface (CLI) Tools](#command-line-interface)
 - [Security](#security)
 - [Theory](#theory)
   - [Articles & Papers](#articles--papers)
@@ -154,6 +155,16 @@ A curated list of WebSockets related principles and technologies.
 - [RFC6455](https://tools.ietf.org/html/rfc6455) - The WebSocket Protocol.
 - [The WebSocket API](https://www.w3.org/TR/websockets/) - The W3C The WebSocket API.
 - [Hixie76](https://tools.ietf.org/html/draft-hixie-thewebsocketprotocol-76) - The WebSocket protocol draft-hixie-thewebsocketprotocol-76
+
+## Command-Line Interface (CLI) Tools
+
+- [claws](https://github.com/thehowl/claws) - Awesome WebSocket CLient - an interactive command line client for testing websocket servers.
+- [wscat](https://github.com/websockets/wscat) - WebSocket cat.
+- [wsta](https://github.com/esphen/wsta) - A CLI development tool for WebSocket APIs.
+- [ws](https://github.com/hashrocket/ws) - websocket command line tool.
+- [wssh](https://github.com/progrium/wssh) - wssh ("wish") is a command-line utility/shell for WebSocket inspired by netcat.
+- [wsc](https://github.com/raphael/wsc) - A tiny command line websocket client written in Go.
+- [ws-cli](https://github.com/kseo/ws-cli) -WebSocket Command Line Client written in Go.
 
 ## Real Life Stories
 
