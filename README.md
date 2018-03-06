@@ -102,6 +102,7 @@ A curated list of WebSockets related principles and technologies.
 #### Scala
 
 - [Play](https://www.playframework.com/documentation/2.5.x/ScalaWebSockets) - The high velocity web framework for Java and Scala.
+- [Finagle-websocket](https://github.com/finagle/finagle-websocket) - Finagle Websocket clients and servers.
 
 ### Node.js
 
