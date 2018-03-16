@@ -142,6 +142,7 @@ A curated list of WebSockets related principles and technologies.
 - [AnyCable](http://anycable.io/) - Polyglot replacement for Ruby WebSocket servers with Action Cable protocol.
 - [Em-websocket](https://github.com/igrigorik/em-websocket) - EventMachine based WebSocket server.
 - [Faye-websocket-ruby](https://github.com/faye/faye-websocket-ruby) - Standards-compliant WebSocket client and server.
+- [Iodine](https://github.com/boazsegev/iodine) - WebSocket/HTTP server with integrated pub/sub and optional Redis support.
 - [Websocket-driver-ruby](https://github.com/faye/websocket-driver-ruby) - WebSocket protocol handler with pluggable I/O.
 - [Websocket-ruby](https://github.com/imanel/websocket-ruby) - Universal Ruby library to handle WebSocket protocol.
 - [Scorched](https://github.com/wardrop/Scorched) - Light-weight web framework for Ruby.
