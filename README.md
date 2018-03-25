@@ -12,7 +12,7 @@ A curated list of WebSockets related principles and technologies.
   - [Agnostic](#agnostic)
   - [C](#c)
   - [C++](#c)
-  - [C\](#c%5C)
+  - [C\#](#c-2)
   - [Erlang](#erlang)
   - [Go](#go)
   - [Java VM](#java-vm)
@@ -71,6 +71,7 @@ A curated list of WebSockets related principles and technologies.
 - [WebSocketListener](http://vtortola.github.io/WebSocketListener) - Lightweight and highly scalable asynchronous WebSocket server for .NET/Mono.
 - [websocket-rpc](https://github.com/dajuric/websocket-rpc) - WebSocket RPC library for .NET with auto JavaScript client code generation, supporting ASP.NET Core.
 - [NetGain](https://github.com/StackExchange/NetGain) - A high performance websocket server library powering Stack Overflow.
+- [websocket-manager](https://github.com/radu-matei/websocket-manager) - Real-Time library for ASP .NET Core
 
 ### Erlang
 
