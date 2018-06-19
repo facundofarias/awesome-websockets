@@ -101,6 +101,10 @@ A curated list of WebSockets related principles and technologies.
 - [Atmosphere](https://github.com/Atmosphere/atmosphere) - Realtime Client Server Framework for the JVM, supporting WebSockets with Cross-Browser Fallbacks.
 - [Webbit](https://github.com/webbit/webbit) - Java event based WebSocket and HTTP server.
 
+#### Kotlin
+
+- [Scarlet](https://github.com/Tinder/Scarlet) - Tinder's Retrofit inspired WebSocket client for Kotlin, Java, and Android
+
 #### Scala
 
 - [Play](https://www.playframework.com/documentation/2.5.x/ScalaWebSockets) - The high velocity web framework for Java and Scala.
