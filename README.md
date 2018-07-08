@@ -142,7 +142,6 @@ A curated list of WebSockets related principles and technologies.
 - [Ws4py](https://ws4py.readthedocs.io/en/latest) - WebSocket package for Python.
 - [Autobahn.ws](http://autobahn.ws) - Open-source real-time framework for Web, Mobile & Internet of Things.
 - [Tornado](http://www.tornadoweb.org/) - Tornado is a Python web framework and asynchronous networking library, originally developed at FriendFeed.
-- [wssh](https://github.com/progrium/wssh) - wssh ("wish") is a command-line utility/shell for WebSocket inspired by netcat
 
 ### Ruby
 
@@ -161,7 +160,6 @@ A curated list of WebSockets related principles and technologies.
 ### Protocols and APIs
 
 - [RFC6455](https://tools.ietf.org/html/rfc6455) - The WebSocket Protocol.
-- [The WebSocket API](https://www.w3.org/TR/websockets/) - The W3C The WebSocket API.
 - [The WebSocket API](https://www.w3.org/TR/websockets/) - The W3C The WebSocket API.
 - [Hixie76](https://tools.ietf.org/html/draft-hixie-thewebsocketprotocol-76) - The WebSocket protocol draft-hixie-thewebsocketprotocol-76
 
