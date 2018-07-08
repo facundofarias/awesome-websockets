@@ -71,7 +71,8 @@ A curated list of WebSockets related principles and technologies.
 - [WebSocketListener](http://vtortola.github.io/WebSocketListener) - Lightweight and highly scalable asynchronous WebSocket server for .NET/Mono.
 - [websocket-rpc](https://github.com/dajuric/websocket-rpc) - WebSocket RPC library for .NET with auto JavaScript client code generation, supporting ASP.NET Core.
 - [NetGain](https://github.com/StackExchange/NetGain) - A high performance websocket server library powering Stack Overflow.
-- [websocket-manager](https://github.com/radu-matei/websocket-manager) - Real-Time library for ASP .NET Core
+- [websocket-manager](https://github.com/radu-matei/websocket-manager) - Real-Time library for ASP .NET Core.
+- [WebSockets](https://github.com/aspnet/WebSockets) - Implementation of the WebSocket protocol, along with client and server integration components.
 
 ### Erlang
 
