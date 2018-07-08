@@ -133,7 +133,7 @@ A curated list of WebSockets related principles and technologies.
 - [Ratchet](http://socketo.me/) - Ratchet is a loosely coupled PHP library providing developers with tools to create real time, bi-directional applications between clients and servers over WebSockets.
 - [Php-websocket](https://github.com/nekudo/php-websocket) - Simple PHP WebSocket implementation for PHP 5.3.
 - [Phpws](https://github.com/Devristo/phpws) - PHP Web Socket server.
-- [wssh](https://github.com/progrium/wssh) - wssh ("wish") is a command-line utility/shell for WebSocket inspired by netcat
+- [Sandstone](https://eole-io.github.io/sandstone/) - Microframework to build a real time Rest API.
 
 ### Python
 
@@ -141,7 +141,7 @@ A curated list of WebSockets related principles and technologies.
 - [Ws4py](https://ws4py.readthedocs.io/en/latest) - WebSocket package for Python.
 - [Autobahn.ws](http://autobahn.ws) - Open-source real-time framework for Web, Mobile & Internet of Things.
 - [Tornado](http://www.tornadoweb.org/) - Tornado is a Python web framework and asynchronous networking library, originally developed at FriendFeed.
-- [Tornado](http://www.tornadoweb.org/) - Tornado is a Python web framework and asynchronous networking library, originally developed at FriendFeed.
+- [wssh](https://github.com/progrium/wssh) - wssh ("wish") is a command-line utility/shell for WebSocket inspired by netcat
 
 ### Ruby
 
