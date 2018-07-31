@@ -124,6 +124,7 @@ A curated list of WebSockets related principles and technologies.
 - [ws-wrapper](https://github.com/bminer/ws-wrapper) - Lightweight WebSocket wrapper that provides a socket.io-like event-handler API along with Promise-based requests.
 - [ws-server-wrapper](https://github.com/bminer/ws-server-wrapper) - Companion library for ws-wrapper for the server-side.
 - [uws](https://www.npmjs.com/package/uws) - Tiny WebSockets (access to the C++ library, µWebSockets, via Node.js)
+- [wspromisify](https://www.npmjs.com/package/wspromisify) - Makes WebSockets async/await ready with a lot of yummies.
 
 ### Perl
 
