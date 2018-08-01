@@ -63,7 +63,6 @@ A curated list of WebSockets related principles and technologies.
 - [Beast](https://github.com/boostorg/beast) - HTTP and WebSocket built on Boost.Asio in C++11.
 - [µWebSockets](https://github.com/uNetworking/uWebSockets) -  Highly scalable WebSocket server & client library.
 - [Simple-WebSocket-Server](https://github.com/eidheim/Simple-WebSocket-Server) -  A very simple, fast, multithreaded, platform independent WebSocket (WS) and WebSocket Secure (WSS) server and client library implemented using C++11, Boost.Asio and OpenSSL.
-- [µWebSockets](https://github.com/uNetworking/uWebSockets) -  Highly scalable WebSocket server & client library.
 - [UEWebsocket](https://github.com/feixuwu/UEWebsocket) - Unreal engine 4 websocket plugin for both c++ and blueprint developer.
 
 ### C\#
