@@ -1,12 +1,7 @@
 [
   {
-    "loc": 145,
-    "link": "https://github.com/progrium/wssh",
-    "error": "Dupe"
-  },
-  {
-    "loc": 164,
-    "link": "https://www.w3.org/TR/websockets/",
+    "loc": 64,
+    "link": "https://github.com/uNetworking/uWebSockets",
     "error": "Dupe"
   }
 ]
