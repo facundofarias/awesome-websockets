@@ -167,13 +167,14 @@ A curated list of WebSockets related principles and technologies.
 
 ## Command-Line Interface (CLI) Tools
 
-- [claws](https://github.com/thehowl/claws) - Awesome WebSocket CLient - an interactive command line client for testing websocket servers.
+- [claws](https://github.com/thehowl/claws) - Awesome WebSocket Client - an interactive command line client for testing websocket servers.
 - [wscat](https://github.com/websockets/wscat) - WebSocket cat.
 - [wsta](https://github.com/esphen/wsta) - A CLI development tool for WebSocket APIs.
 - [ws](https://github.com/hashrocket/ws) - websocket command line tool.
 - [wssh](https://github.com/progrium/wssh) - wssh ("wish") is a command-line utility/shell for WebSocket inspired by netcat.
 - [wsc](https://github.com/raphael/wsc) - A tiny command line websocket client written in Go.
-- [ws-cli](https://github.com/kseo/ws-cli) -WebSocket Command Line Client written in Go.
+- [ws-cli](https://github.com/kseo/ws-cli) - WebSocket Command Line Client written in Go.
+- [ws-tool](https://github.com/plantain-00/ws-tool) - A Develop Tool to Test WebSocket, Socket.IO, Stomp, Bayeux, HTTP, TCP, UDP, WebRTC, DNS API.
 
 ## Real Life Stories
 
