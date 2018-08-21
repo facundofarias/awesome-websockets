@@ -54,6 +54,7 @@ A curated list of WebSockets related principles and technologies.
 - [Libwebsock](https://github.com/payden/libwebsock) - C library for easy WebSockets server.
 - [Websocket](https://github.com/mortzdk/Websocket) -  Websocket server written in C.
 - [facil.io](http://facil.io) - A server/framework library for web applications, including Websockets and native pub/sub.
+- [libuwsc](https://github.com/zhaojh329/libuwsc) - A Lightweight and fully asynchronous WebSocket client C library based on libubox for Embedded Linux.
 
 ### C++
 <!-- #c-1 anchor -->
