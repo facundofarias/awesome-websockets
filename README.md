@@ -55,6 +55,7 @@ A curated list of WebSockets related principles and technologies.
 - [Websocket](https://github.com/mortzdk/Websocket) -  Websocket server written in C.
 - [facil.io](http://facil.io) - A server/framework library for web applications, including Websockets and native pub/sub.
 - [libuwsc](https://github.com/zhaojh329/libuwsc) - A Lightweight and fully asynchronous WebSocket client C library based on libubox for Embedded Linux.
+- [mongoose](https://github.com/cesanta/mongoose) - Mongoose Embedded Web Server Library - Mongoose is more than an embedded webserver. It is a multi-protocol embedded networking library with functions including TCP, HTTP client and server, WebSocket client and server, MQTT client and broker and much more.
 
 ### C++
 <!-- #c-1 anchor -->
@@ -193,7 +194,6 @@ A curated list of WebSockets related principles and technologies.
 - [Hacking with WebSockets](https://media.blackhat.com/bh-us-12/Briefings/Shekyan/BH_US_12_Shekyan_Toukharian_Hacking_Websocket_Slides.pdf) - Talk on Blackhat USA 2012 Conference.
 - [Testing WebSockets](https://www.owasp.org/index.php/Testing_WebSockets_(OTG-CLIENT-010)) - This article is part of the new OWASP Testing Guide v4.
 - [Websockets Auth](http://stratumsecurity.ghost.io/2016/06/13/websockets-auth) - Journey into WebSockets Authentication/Authorization.
-- [Kaazing](https://kaazing.com/2012/02/28/html5-websocket-security-is-strong) - HTML5 WebSocket Security is Strong.
 
 
 ## Theory
