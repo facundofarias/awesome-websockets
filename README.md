@@ -65,6 +65,7 @@ A curated list of WebSockets related principles and technologies.
 - [µWebSockets](https://github.com/uNetworking/uWebSockets) -  Highly scalable WebSocket server & client library.
 - [Simple-WebSocket-Server](https://github.com/eidheim/Simple-WebSocket-Server) -  A very simple, fast, multithreaded, platform independent WebSocket (WS) and WebSocket Secure (WSS) server and client library implemented using C++11, Boost.Asio and OpenSSL.
 - [UEWebsocket](https://github.com/feixuwu/UEWebsocket) - Unreal engine 4 websocket plugin for both c++ and blueprint developer.
+- [IXWebSocket](https://github.com/machinezone/IXWebSocket) - Lightweight C++11 multi-threaded client library with TLS support.
 
 ### C\#
 <!-- #c-2 anchor -->
