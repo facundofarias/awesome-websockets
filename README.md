@@ -78,6 +78,7 @@ A curated list of WebSockets related principles and technologies.
 - [NetGain](https://github.com/StackExchange/NetGain) - A high performance websocket server library powering Stack Overflow.
 - [websocket-manager](https://github.com/radu-matei/websocket-manager) - Real-Time library for ASP .NET Core.
 - [WebSockets](https://github.com/aspnet/WebSockets) - Implementation of the WebSocket protocol, along with client and server integration components.
+- [WebSockets support in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/websockets?view=aspnetcore-2.1) - This article explains how to get started with WebSockets in ASP.NET Core.
 
 ### Erlang
 
