@@ -1,7 +1,9 @@
 [
   {
-    "loc": 64,
-    "link": "https://github.com/uNetworking/uWebSockets",
-    "error": "Dupe"
+    "loc": 53,
+    "status": -1,
+    "link": "https://libwebsockets.org",
+    "redirect": "",
+    "error": "incorrect header check"
   }
 ]

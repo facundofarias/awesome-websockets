@@ -15,6 +15,7 @@ A curated list of WebSockets related principles and technologies.
   - [C\#](#c-2)
   - [Erlang](#erlang)
   - [Go](#go)
+  - [Haskell](#haskell)
   - [Java VM](#java-vm)
     - [Clojure](#clojure)
     - [Java](#java)
@@ -90,6 +91,10 @@ A curated list of WebSockets related principles and technologies.
 - [Gorilla Websocket](https://github.com/gorilla/websocket) - WebSocket implementation for Go.
 - [Websocket](https://godoc.org/golang.org/x/net/websocket) - Package Websocket implements a client and server for the WebSocket protocol as specified in RFC 6455.
 - [Ws](https://github.com/gobwas/ws) - Tiny WebSocket library for Go.
+
+### Haskell
+
+- [Websockets](https://github.com/jaspervdj/websockets) - A Haskell library for creating WebSocket-capable servers.
 
 ### Java VM
 
