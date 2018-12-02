@@ -202,6 +202,7 @@ A curated list of WebSockets related principles and technologies.
 - [Testing WebSockets](https://www.owasp.org/index.php/Testing_WebSockets_(OTG-CLIENT-010)) - This article is part of the new OWASP Testing Guide v4.
 - [Websockets Auth](http://stratumsecurity.ghost.io/2016/06/13/websockets-auth) - Journey into WebSockets Authentication/Authorization.
 - [WebSocket Security](https://devcenter.heroku.com/articles/websocket-security) - The WebSocket protocol is a young technology, and brings with it some risks. Decades of experience have taught the web community some best practices around HTTP security, but the security best practices in the WebSocket world aren’t firmly established, and continue to evolve. Nevertheless, some themes have emerged and they are described in this article.
+- [Cross-Site WebSocket Hijacking](http://www.christian-schneider.net/CrossSiteWebSocketHijacking.html) - Cross-Site WebSocket Hijacking (CSWSH) - Web Application Security Blog.
 
 ## Theory
 
