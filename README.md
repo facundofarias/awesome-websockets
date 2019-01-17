@@ -48,6 +48,7 @@ A curated list of WebSockets related principles and technologies.
 - [Websocketd](http://websocketd.com) - WebSockets the UNIX way - Full duplex messaging between web browsers and servers.
 - [Nchan](https://nchan.slact.net) - Nchan is a scalable, flexible pub/sub server for the modern web, built as a module for the Nginx web server.
 - [Apache-websocket](https://github.com/disconnect/apache-websocket) - Apache WebSocket module.
+- [MinnowServer](https://github.com/RealTimeLogic/MinnowServer) - A super small and fast embedded HTTP(S) WebSocket server.
 
 ### C
 
