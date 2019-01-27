@@ -186,6 +186,7 @@ A curated list of WebSockets related principles and technologies.
 - [wsc](https://github.com/raphael/wsc) - A tiny command line websocket client written in Go.
 - [ws-cli](https://github.com/kseo/ws-cli) - WebSocket Command Line Client written in Go.
 - [ws-tool](https://github.com/plantain-00/ws-tool) - A Develop Tool to Test WebSocket, Socket.IO, Stomp, Bayeux, HTTP, TCP, UDP, WebRTC, DNS API.
+- [websocketd](https://github.com/joewalnes/websocketd) - Turn any program that uses STDIN/STDOUT into a WebSocket server. Like inetd, but for WebSockets.
 
 ## Real Life Stories
 
