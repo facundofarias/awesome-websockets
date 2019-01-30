@@ -155,6 +155,7 @@ A curated list of WebSockets related principles and technologies.
 - [Autobahn.ws](http://autobahn.ws) - Open-source real-time framework for Web, Mobile & Internet of Things.
 - [Tornado](http://www.tornadoweb.org/) - Tornado is a Python web framework and asynchronous networking library, originally developed at FriendFeed.
 - [Websockets](https://github.com/aaugustin/websockets) - WebSocket implementation in Python 3.
+- [WebSocket Benchmarker](https://github.com/healeycodes/websocket-benchmarker) - CLI tool for benchmarking WebSocket Servers.
 
 ### Ruby
 
