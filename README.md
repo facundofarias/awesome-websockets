@@ -85,7 +85,6 @@ A curated list of WebSockets related principles and technologies.
 
 - [Sockjs-erlang](https://github.com/sockjs/sockjs-erlang) - WebSocket emulation - Erlang server.
 - [Cowboy](https://github.com/ninenines/cowboy) - Small, fast, modular HTTP server written in Erlang.
-- [Bullet](https://github.com/ninenines/bullet) - Simple, reliable, efficient streaming for Cowboy.
 - [Kraken](https://github.com/Asana/kraken) - Distributed Pubsub Server for Realtime Apps.
 
 ### Go
