@@ -5,12 +5,5 @@
     "link": "https://libwebsockets.org",
     "redirect": "",
     "error": "incorrect header check"
-  },
-  {
-    "loc": 176,
-    "status": -1,
-    "link": "https://www.w3.org/TR/websockets/",
-    "redirect": "",
-    "error": "Failed to open TCP connection to www.w3.org:443 (Operation timed out - connect(2) for \"www.w3.org\" port 443)"
   }
 ]
