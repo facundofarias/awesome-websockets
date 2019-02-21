@@ -49,6 +49,7 @@ A curated list of WebSockets related principles and technologies.
 - [Nchan](https://nchan.slact.net) - Nchan is a scalable, flexible pub/sub server for the modern web, built as a module for the Nginx web server.
 - [Apache-websocket](https://github.com/disconnect/apache-websocket) - Apache WebSocket module.
 - [MinnowServer](https://github.com/RealTimeLogic/MinnowServer) - A super small and fast embedded HTTP(S) WebSocket server.
+- [gwsocket](https://github.com/allinurl/gwsocket) - Fast, standalone, language-agnostic WebSocket server RFC6455 compliant.
 
 ### C
 
