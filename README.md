@@ -11,7 +11,7 @@ A curated list of WebSockets related principles and technologies.
 - [Tools per Language](#tools-per-language)
   - [Agnostic](#agnostic)
   - [C](#c)
-  - [C++](#c)
+  - [C++](#c-1)
   - [C\#](#c-2)
   - [Erlang](#erlang)
   - [Go](#go)
