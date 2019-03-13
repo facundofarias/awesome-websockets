@@ -94,6 +94,7 @@ A curated list of WebSockets related principles and technologies.
 - [Websocket](https://godoc.org/golang.org/x/net/websocket) - Package Websocket implements a client and server for the WebSocket protocol as specified in RFC 6455.
 - [Ws](https://github.com/gobwas/ws) - Tiny WebSocket library for Go.
 - [1m-go-websockets](https://github.com/eranyanay/1m-go-websockets) - Handling 1M websockets connections in Go.
+- [gotify/server](https://gotify.net/) - A simple server for sending and receiving messages in real-time per web socket.
 
 ### Haskell
 
