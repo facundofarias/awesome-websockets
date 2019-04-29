@@ -139,6 +139,7 @@ A curated list of WebSockets related principles and technologies.
 - [ws-server-wrapper](https://github.com/bminer/ws-server-wrapper) - Companion library for ws-wrapper for the server-side.
 - [uws](https://github.com/uNetworking/uWebSockets.js) - Tiny WebSockets (access to the C++ library, µWebSockets, via Node.js)
 - [netflux](https://coast-team.github.io/netflux/) - JavaScript client and server side transport API based on WebRTC & WebSocket
+- [Sockette](https://github.com/lukeed/sockette) - WebSocket client that will automatically reconnect if the connection is lost.
 
 ### Perl
 
