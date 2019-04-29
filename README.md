@@ -95,6 +95,7 @@ A curated list of WebSockets related principles and technologies.
 - [Ws](https://github.com/gobwas/ws) - Tiny WebSocket library for Go.
 - [1m-go-websockets](https://github.com/eranyanay/1m-go-websockets) - Handling 1M websockets connections in Go.
 - [gotify/server](https://gotify.net/) - A simple server for sending and receiving messages in real-time per web socket.
+- [nhooyr/websocket](hhttps://github.com/nhooyr/websocket) - A minimal and idiomatic WebSocket library for Go.
 
 ### Haskell
 
