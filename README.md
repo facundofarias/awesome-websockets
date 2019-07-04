@@ -86,6 +86,7 @@ A curated list of WebSockets related principles and technologies.
 
 - [Sockjs-erlang](https://github.com/sockjs/sockjs-erlang) - WebSocket emulation - Erlang server.
 - [Cowboy](https://github.com/ninenines/cowboy) - Small, fast, modular HTTP server written in Erlang.
+- [n2o](https://github.com/synrc/n2o) - Erlang web server on websockets.
 - [Kraken](https://github.com/Asana/kraken) - Distributed Pubsub Server for Realtime Apps.
 
 ### Go
@@ -100,6 +101,7 @@ A curated list of WebSockets related principles and technologies.
 ### Haskell
 
 - [Websockets](https://github.com/jaspervdj/websockets) - A Haskell library for creating WebSocket-capable servers.
+- [n2o](https://github.com/o3/n2o) - Haskell implementation of Erlang's n2o - web server on websockets.
 
 ### Java VM
 
