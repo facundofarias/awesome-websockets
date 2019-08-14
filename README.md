@@ -45,6 +45,7 @@ A curated list of WebSockets related principles and technologies.
 
 ### Agnostic
 
+- [Centrifugo](https://github.com/centrifugal/centrifugo) - Scalable real-time messaging in language-agnostic way.
 - [Websocketd](http://websocketd.com) - WebSockets the UNIX way - Full duplex messaging between web browsers and servers.
 - [Nchan](https://nchan.slact.net) - Nchan is a scalable, flexible pub/sub server for the modern web, built as a module for the Nginx web server.
 - [Apache-websocket](https://github.com/disconnect/apache-websocket) - Apache WebSocket module.
@@ -96,7 +97,8 @@ A curated list of WebSockets related principles and technologies.
 - [Ws](https://github.com/gobwas/ws) - Tiny WebSocket library for Go.
 - [1m-go-websockets](https://github.com/eranyanay/1m-go-websockets) - Handling 1M websockets connections in Go.
 - [gotify/server](https://gotify.net/) - A simple server for sending and receiving messages in real-time per web socket.
-- [nhooyr/websocket](hhttps://github.com/nhooyr/websocket) - A minimal and idiomatic WebSocket library for Go.
+- [nhooyr/websocket](https://github.com/nhooyr/websocket) - A minimal and idiomatic WebSocket library for Go.
+- [Centrifuge](https://github.com/centrifugal/centrifuge) - Real-time messaging library for Go with scalability in mind.
 
 ### Haskell
 
