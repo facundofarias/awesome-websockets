@@ -73,6 +73,10 @@ A curated list of WebSockets related principles and technologies.
 - [IXWebSocket](https://github.com/machinezone/IXWebSocket) - Lightweight C++11 multi-threaded client library with TLS support.
 - [LAppS](https://github.com/ITpC/LAppS) - LAppS - Lua Application Server for micro-services with default communication over WebSockets.
 
+### Rust
+
+- [Websocket Core](https://github.com/bitwyre/websocket_core) - Rust Websocket server for periodic message broadcast
+
 ### C\#
 <!-- #c-2 anchor -->
 
