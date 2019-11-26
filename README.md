@@ -25,6 +25,7 @@ A curated list of WebSockets related principles and technologies.
   - [PHP](#php)
   - [Python](#python)
   - [Ruby](#ruby)
+  - [Rust](#rust)
   - [Protocols and APIs](#protocols-and-apis)
 - [Command-Line Interface (CLI) Tools](#command-line-interface-cli-tools)
 - [Real Life Stories](#real-life-stories)
@@ -72,10 +73,6 @@ A curated list of WebSockets related principles and technologies.
 - [UEWebsocket](https://github.com/feixuwu/UEWebsocket) - Unreal engine 4 websocket plugin for both c++ and blueprint developer.
 - [IXWebSocket](https://github.com/machinezone/IXWebSocket) - Lightweight C++11 multi-threaded client library with TLS support.
 - [LAppS](https://github.com/ITpC/LAppS) - LAppS - Lua Application Server for micro-services with default communication over WebSockets.
-
-### Rust
-
-- [Websocket Core](https://github.com/bitwyre/websocket_core) - Rust Websocket server for periodic message broadcast
 
 ### C\#
 <!-- #c-2 anchor -->
@@ -183,6 +180,10 @@ A curated list of WebSockets related principles and technologies.
 - [Slanger](https://github.com/stevegraham/slanger) - Open Pusher implementation compatible with Pusher libraries.
 - [render_sync](https://github.com/chrismccord/render_sync) - Real-time Rails Partials.
 - [websocket-rails](https://github.com/websocket-rails/websocket-rails) - Plug and play websocket support for ruby on rails.
+
+### Rust
+
+- [Websocket Core](https://github.com/bitwyre/websocket_core) - Rust Websocket server for periodic message broadcast
 
 ### Protocols and APIs
 
