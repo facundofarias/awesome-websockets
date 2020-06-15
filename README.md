@@ -192,6 +192,10 @@ A curated list of WebSockets related principles and technologies.
 - [The WebSocket API](https://www.w3.org/TR/websockets/) - The W3C The WebSocket API.
 - [Hixie76](https://tools.ietf.org/html/draft-hixie-thewebsocketprotocol-76) - The WebSocket protocol draft-hixie-thewebsocketprotocol-76
 
+## GUI Testing Tools
+
+- [Firecamp](https://firecamp.io/websocket) - Full-featured GUI WebSocket testing client which helps Dev team to test WebSocket events visually. Test APIs, save them in the project and share it with your team. 
+
 ## Command-Line Interface (CLI) Tools
 
 - [claws](https://github.com/thehowl/claws) - Awesome WebSocket Client - an interactive command line client for testing websocket servers.
@@ -239,6 +243,7 @@ A curated list of WebSockets related principles and technologies.
 - [Webpush Internet-Draft](https://martinthomson.github.io/drafts/draft-thomson-webpush-http2.html) - Generic Event Delivery Using HTTP Push.
 - [Full Stack Python](https://www.fullstackpython.com/websockets.html) - WebSockets on Python.
 - [Do you really need WebSockets?](https://blog.stanko.io/do-you-really-need-websockets-343aed40aa9b) - WebSockets explanation.
+- [Be lazy and test your WebSocket APIs with Firecamp](https://dev.to/firecamp/be-lazy-and-test-your-websocket-apis-with-firecamp-209e) - How to test Websocket in a team.
 
 ### Talks
 
