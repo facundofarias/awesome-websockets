@@ -61,6 +61,7 @@ A curated list of WebSockets related principles and technologies.
 - [facil.io](http://facil.io) - A server/framework library for web applications, including Websockets and native pub/sub.
 - [libuwsc](https://github.com/zhaojh329/libuwsc) - A Lightweight and fully asynchronous WebSocket client C library based on libubox for Embedded Linux.
 - [mongoose](https://github.com/cesanta/mongoose) - Mongoose Embedded Web Server Library - Mongoose is more than an embedded webserver. It is a multi-protocol embedded networking library with functions including TCP, HTTP client and server, WebSocket client and server, MQTT client and broker and much more.
+- [WebSockets in C](https://github.com/cjhdev/wic) - A minimal implementation for embedded applications.
 
 ### C++
 <!-- #c-1 anchor -->
