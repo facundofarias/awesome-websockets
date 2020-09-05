@@ -162,6 +162,7 @@ A curated list of WebSockets related principles and technologies.
 
 ### Python
 
+- [Django Channels][https://channels.readthedocs.io/en/latest/] - Extends [Django](https://www.djangoproject.com/) with  WebSocket, long-poll HTTP, task offloading and other async support.
 - [Websockets](https://websockets.readthedocs.io) - Websockets is a library for developing WebSocket servers and clients in Python.
 - [Ws4py](https://ws4py.readthedocs.io/en/latest) - WebSocket package for Python.
 - [Autobahn.ws](http://autobahn.ws) - Open-source real-time framework for Web, Mobile & Internet of Things.
