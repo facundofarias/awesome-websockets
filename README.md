@@ -256,6 +256,7 @@ A curated list of WebSockets related principles and technologies.
 - [Honeybadger.IO](http://blog.honeybadger.io/building-a-simple-websockets-server-from-scratch-in-ruby) - Building a simple websockets server from scratch in Ruby.
 - [Engineyard](https://blog.engineyard.com/2013/getting-started-with-ruby-and-websockets) - Getting Started with Ruby and WebSockets.
 - [David Walsh](https://davidwalsh.name/websocket) - WebSocket and Socket.IO.
+- [Implementing a WebSocket server with Node.js](https://medium.com/hackernoon/implementing-a-websocket-server-with-node-js-d9b78ec5ffa8).
 
 
 ### Books
