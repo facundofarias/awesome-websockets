@@ -74,6 +74,7 @@ A curated list of WebSockets related principles and technologies.
 - [UEWebsocket](https://github.com/feixuwu/UEWebsocket) - Unreal engine 4 websocket plugin for both c++ and blueprint developer.
 - [IXWebSocket](https://github.com/machinezone/IXWebSocket) - Lightweight C++11 multi-threaded client library with TLS support.
 - [LAppS](https://github.com/ITpC/LAppS) - LAppS - Lua Application Server for micro-services with default communication over WebSockets.
+- [libhv](https://github.com/ithewei/libhv) - A network library for developing TCP/UDP/SSL/HTTP/WebSocket client/server.
 
 ### C\#
 <!-- #c-2 anchor -->
