@@ -156,6 +156,7 @@ A curated list of WebSockets related principles and technologies.
 - [`Mojolicious`](https://metacpan.org/pod/distribution/Mojolicious/lib/Mojolicious/Guides/Routing.pod#WebSockets) - An amazing real-time web framework built on top of the powerful Mojo web development toolkit and comes with websockets built in. 
 - [`Dancer2::Plugin::WebSocket`][https://metacpan.org/pod/Dancer2::Plugin::WebSocket] - add a websocket interface to your Dancer2 app
 - [`Plack::App::WebSocket`](https://metacpan.org/pod/Plack::App::WebSocket) - WebSocket server as a plack/PSGI application
+- [`Net::WebSocket`](https://metacpan.org/pod/Net::WebSocket::Server) - Super-flexible, minimal client & server library
 
 ### PHP
 
