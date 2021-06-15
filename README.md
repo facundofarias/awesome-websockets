@@ -86,6 +86,7 @@ A curated list of WebSockets related principles and technologies.
 - [websocket-manager](https://github.com/radu-matei/websocket-manager) - Real-Time library for ASP .NET Core.
 - [WebSockets](https://github.com/aspnet/WebSockets) - Implementation of the WebSocket protocol, along with client and server integration components.
 - [WebSockets support in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/websockets?view=aspnetcore-2.1) - This article explains how to get started with WebSockets in ASP.NET Core.
+- [unity-websocket-server](https://github.com/shaunabanana/unity-websocket-server) - A simple, zero-dependency WebSocket server for Unity.
 
 ### Erlang
 
