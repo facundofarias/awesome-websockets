@@ -217,6 +217,7 @@ A curated list of WebSockets related principles and technologies.
 - [ws-tool](https://github.com/plantain-00/ws-tool) - A Develop Tool to Test WebSocket, Socket.IO, Stomp, Bayeux, HTTP, TCP, UDP, WebRTC, DNS API.
 - [websocketd](https://github.com/joewalnes/websocketd) - Turn any program that uses STDIN/STDOUT into a WebSocket server. Like inetd, but for WebSockets.
 - [websocat](https://github.com/vi/websocat) - Command-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions.
+- [iola](https://github.com/pvarentsov/iola) - Socket client with Rest API (WebSocket, Socket.IO, TCP, Unix socket).
 
 ## Real Life Stories
 
