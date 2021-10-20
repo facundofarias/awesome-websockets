@@ -134,6 +134,11 @@ A curated list of WebSockets related principles and technologies.
 - [Play](https://www.playframework.com/documentation/2.5.x/ScalaWebSockets) - The high velocity web framework for Java and Scala.
 - [Finagle-websocket](https://github.com/finagle/finagle-websocket) - Finagle Websocket clients and servers.
 
+### Swift
+
+- [Vapor](https://vapor.codes) - A high level web framework for Swift
+- [WebsocketKit](https://github.com/vapor/websocket-kit) - A low level WebSocket client library built on SwiftNIO
+
 ### Node.js
 
 - [Socket.IO](http://socket.io/) - Featuring the fastest and most reliable real-time engine.
@@ -202,6 +207,7 @@ A curated list of WebSockets related principles and technologies.
 
 ## GUI Testing Tools
 
+- [Cleora][https://cleora.app] - A native macOS, iOS and iPadOS WebSocket client for testing and documenting APIs.
 - [Firecamp](https://firecamp.io/websocket) - Full-featured GUI WebSocket testing client which helps Dev team to test WebSocket events visually. Test APIs, save them in the project and share it with your team. 
 - [WebSocket King](https://websocketking.com) - A browser based WebSocket testing client that supports multiple simultanious connections, logs of incoming and outgoing messages, custom protocols and multiple projects.
 
@@ -266,6 +272,7 @@ A curated list of WebSockets related principles and technologies.
 - [Engineyard](https://blog.engineyard.com/2013/getting-started-with-ruby-and-websockets) - Getting Started with Ruby and WebSockets.
 - [David Walsh](https://davidwalsh.name/websocket) - WebSocket and Socket.IO.
 - [Implementing a WebSocket server with Node.js](https://medium.com/hackernoon/implementing-a-websocket-server-with-node-js-d9b78ec5ffa8).
+- [Lostmoa](https://lostmoa.com/tags/websocket/) - A collection of django channels WebSocket tutorials. 
 
 
 ### Books
