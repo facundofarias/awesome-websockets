@@ -26,6 +26,7 @@ A curated list of WebSockets related principles and technologies.
   - [Python](#python)
   - [Ruby](#ruby)
   - [Rust](#rust)
+  - [Swift](#swift)
   - [Protocols and APIs](#protocols-and-apis)
 - [Command-Line Interface (CLI) Tools](#command-line-interface-cli-tools)
 - [Real Life Stories](#real-life-stories)
@@ -134,11 +135,6 @@ A curated list of WebSockets related principles and technologies.
 - [Play](https://www.playframework.com/documentation/2.5.x/ScalaWebSockets) - The high velocity web framework for Java and Scala.
 - [Finagle-websocket](https://github.com/finagle/finagle-websocket) - Finagle Websocket clients and servers.
 
-### Swift
-
-- [Vapor](https://vapor.codes) - A high level web framework for Swift
-- [WebsocketKit](https://github.com/vapor/websocket-kit) - A low level WebSocket client library built on SwiftNIO
-
 ### Node.js
 
 - [Socket.IO](http://socket.io/) - Featuring the fastest and most reliable real-time engine.
@@ -198,6 +194,11 @@ A curated list of WebSockets related principles and technologies.
 ### Rust
 
 - [Websocket Core](https://github.com/bitwyre/websocket_core) - Rust Websocket server for periodic message broadcast
+
+### Swift
+
+- [Vapor](https://vapor.codes) - A high level web framework for Swift.
+- [WebsocketKit](https://github.com/vapor/websocket-kit) - A low level WebSocket client library built on SwiftNIO.
 
 ### Protocols and APIs
 
