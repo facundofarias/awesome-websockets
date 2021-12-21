@@ -156,9 +156,9 @@ A curated list of WebSockets related principles and technologies.
 ### Perl
 
 - [`Net::WebSocket::Server`](https://metacpan.org/pod/Net::WebSocket::Server) - Straightforward Perl WebSocket server with minimal dependencies.
-- [`AnyEvent::WebSocket::Server`][https://metacpan.org/pod/AnyEvent::WebSocket::Server] - WebSocket server for AnyEvent
+- [`AnyEvent::WebSocket::Server`](https://metacpan.org/pod/AnyEvent::WebSocket::Server) - WebSocket server for AnyEvent
 - [`Mojolicious`](https://metacpan.org/pod/distribution/Mojolicious/lib/Mojolicious/Guides/Routing.pod#WebSockets) - An amazing real-time web framework built on top of the powerful Mojo web development toolkit and comes with websockets built in. 
-- [`Dancer2::Plugin::WebSocket`][https://metacpan.org/pod/Dancer2::Plugin::WebSocket] - add a websocket interface to your Dancer2 app
+- [`Dancer2::Plugin::WebSocket`](https://metacpan.org/pod/Dancer2::Plugin::WebSocket) - add a websocket interface to your Dancer2 app
 - [`Plack::App::WebSocket`](https://metacpan.org/pod/Plack::App::WebSocket) - WebSocket server as a plack/PSGI application
 - [`Net::WebSocket`](https://metacpan.org/pod/Net::WebSocket::Server) - Super-flexible, minimal client & server library
 
