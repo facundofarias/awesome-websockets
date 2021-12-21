@@ -151,6 +151,7 @@ A curated list of WebSockets related principles and technologies.
 - [netflux](https://coast-team.github.io/netflux/) - JavaScript client and server side transport API based on WebRTC & WebSocket
 - [Sockette](https://github.com/lukeed/sockette) - WebSocket client that will automatically reconnect if the connection is lost.
 - [rpc-websockets](https://github.com/elpheria/rpc-websockets) - JSON-RPC 2.0 implementation over WebSockets for Node.js and JavaScript/TypeScript.
+- [soketi](https://github.com/soketi/soketi) - Just another simple, fast, and resilient open-source WebSockets server. Built on top of uWebSockets.js.
 
 ### Perl
 
@@ -167,6 +168,7 @@ A curated list of WebSockets related principles and technologies.
 - [Php-websocket](https://github.com/nekudo/php-websocket) - Simple PHP WebSocket implementation for PHP 5.3.
 - [Phpws](https://github.com/Devristo/phpws) - PHP Web Socket server.
 - [Sandstone](https://eole-io.github.io/sandstone/) - Microframework to build a real time Rest API.
+- [Laravel Websockets](https://github.com/beyondcode/laravel-websockets) - A package for Laravel 5.7 and up that will get your application started with WebSockets in no-time!
 
 ### Python
 
