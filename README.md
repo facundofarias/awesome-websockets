@@ -125,6 +125,7 @@ A curated list of WebSockets related principles and technologies.
 - [Java-WebSocket](https://github.com/TooTallNate/Java-WebSocket) - Barebones WebSocket client and server implementation written in 100% Java.
 - [Atmosphere](https://github.com/Atmosphere/atmosphere) - Realtime Client Server Framework for the JVM, supporting WebSockets with Cross-Browser Fallbacks.
 - [Webbit](https://github.com/webbit/webbit) - Java event based WebSocket and HTTP server.
+- [nv-websocket-client](https://github.com/TakahikoKawasaki/nv-websocket-client) - High-quality WebSocket client implementation in Java which.
 
 #### Kotlin
 
