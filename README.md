@@ -207,15 +207,15 @@ A curated list of WebSockets related principles and technologies.
 
 ### Protocols and APIs
 
-- [RFC6455](https://tools.ietf.org/html/rfc6455) - The WebSocket Protocol.
-- [The WebSocket API](https://www.w3.org/TR/websockets/) - The W3C The WebSocket API.
-- [Hixie76](https://tools.ietf.org/html/draft-hixie-thewebsocketprotocol-76) - The WebSocket protocol draft-hixie-thewebsocketprotocol-76
+- [RFC6455](https://www.rfc-editor.org/rfc/rfc6455) - The WebSocket Protocol.
+- [The WebSocket API](https://websockets.spec.whatwg.org) - WebSockets - Living Standard.
 
 ## GUI Testing Tools
 
 - [Cleora](https://cleora.app) - A native macOS, iOS and iPadOS WebSocket client for testing and documenting APIs.
 - [Firecamp](https://firecamp.io/websocket) - Full-featured GUI WebSocket testing client which helps Dev team to test WebSocket events visually. Test APIs, save them in the project and share it with your team. 
 - [WebSocket King](https://websocketking.com) - A browser based WebSocket testing client that supports multiple simultanious connections, logs of incoming and outgoing messages, custom protocols and multiple projects.
+- [Simple WebSocket Client](https://chrome.google.com/webstore/detail/simple-websocket-client/pfdhoblngboilpfeibdedpjgfnlcodoo) - Simple WebSocket Client (Chrome Extension).
 
 ## Command-Line Interface (CLI) Tools
 
