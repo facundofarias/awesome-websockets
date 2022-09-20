@@ -76,7 +76,6 @@ A curated list of WebSockets related principles and technologies.
 - [IXWebSocket](https://github.com/machinezone/IXWebSocket) - Lightweight C++11 multi-threaded client library with TLS support.
 - [LAppS](https://github.com/ITpC/LAppS) - LAppS - Lua Application Server for micro-services with default communication over WebSockets.
 - [libhv](https://github.com/ithewei/libhv) - A network library for developing TCP/UDP/SSL/HTTP/WebSocket client/server.
-- [websocket-sharp](https://github.com/sta/websocket-sharp) - A C# implementation of the WebSocket protocol client and server
 
 ### C\#
 <!-- #c-2 anchor -->
@@ -89,6 +88,7 @@ A curated list of WebSockets related principles and technologies.
 - [WebSockets](https://github.com/aspnet/WebSockets) - Implementation of the WebSocket protocol, along with client and server integration components.
 - [WebSockets support in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/websockets?view=aspnetcore-2.1) - This article explains how to get started with WebSockets in ASP.NET Core.
 - [unity-websocket-server](https://github.com/shaunabanana/unity-websocket-server) - A simple, zero-dependency WebSocket server for Unity.
+- [websocket-sharp](https://github.com/sta/websocket-sharp) - A C# implementation of the WebSocket protocol client and server.
 
 ### Erlang
 
