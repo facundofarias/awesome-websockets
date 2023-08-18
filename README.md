@@ -10,6 +10,7 @@ A curated list of WebSockets related principles and technologies.
 
 - [Tools per Language](#tools-per-language)
   - [Agnostic](#agnostic)
+  - [Ballerina](#ballerina)
   - [C](#c)
   - [C++](#c-1)
   - [C\#](#c-2)
@@ -53,6 +54,10 @@ A curated list of WebSockets related principles and technologies.
 - [Apache-websocket](https://github.com/disconnect/apache-websocket) - Apache WebSocket module.
 - [MinnowServer](https://github.com/RealTimeLogic/MinnowServer) - A super small and fast embedded HTTP(S) WebSocket server.
 - [gwsocket](https://github.com/allinurl/gwsocket) - Fast, standalone, language-agnostic WebSocket server RFC6455 compliant.
+
+### Ballerina
+
+- [Ballerina WebSocket Module](https://lib.ballerina.io/ballerina/websocket/latest) - Tailored WebSocket client and server implementations in Ballerina, designed and optimized for seamless integration.
 
 ### C
 
