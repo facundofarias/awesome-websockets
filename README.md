@@ -187,6 +187,7 @@ A curated list of WebSockets related principles and technologies.
 - [Tornado](http://www.tornadoweb.org/) - Tornado is a Python web framework and asynchronous networking library, originally developed at FriendFeed.
 - [WebSocket Benchmarker](https://github.com/healeycodes/websocket-benchmarker) - CLI tool for benchmarking WebSocket Servers.
 - [Starlette](https://www.starlette.io/websockets/)
+- [Simple Http Server](https://github.com/keijack/python-simple-http-server) A simple HTTP server, including support of numerous websocket events like `on_text_message`, `on_binary_message` etc. And even `on_binary_frame`. 
 
 ### Ruby
 
