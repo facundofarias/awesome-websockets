@@ -21,6 +21,7 @@ A curated list of WebSockets related principles and technologies.
     - [Clojure](#clojure)
     - [Java](#java)
     - [Scala](#scala)
+  - [Julia](#julia)
   - [Node.js](#nodejs)
   - [Perl](#perl)
   - [PHP](#php)
@@ -142,6 +143,12 @@ A curated list of WebSockets related principles and technologies.
 
 - [Play](https://www.playframework.com/documentation/2.5.x/ScalaWebSockets) - The high velocity web framework for Java and Scala.
 - [Finagle-websocket](https://github.com/finagle/finagle-websocket) - Finagle Websocket clients and servers.
+
+
+### Julia
+
+- [HTTP.jl](https://github.com/JuliaWeb/HTTP.jl) - HTTP library for Julia with support on Websockets.
+- [WebSockets.jl](https://github.com/JuliaWeb/WebSockets.jl) - A WebSockets library for Julia.
 
 ### Node.js
 
