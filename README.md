@@ -213,6 +213,7 @@ A curated list of WebSockets related principles and technologies.
 
 ### Rust
 
+- [Actix](https://actix.rs/docs/websockets) - A Rust web framework with support for the Websocket Protocol 
 - [Websocket Core](https://github.com/bitwyre/websocket_core) - Rust Websocket server for periodic message broadcast
 
 ### Swift
