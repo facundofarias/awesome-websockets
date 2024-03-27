@@ -168,6 +168,7 @@ A curated list of WebSockets related principles and technologies.
 - [Sockette](https://github.com/lukeed/sockette) - WebSocket client that will automatically reconnect if the connection is lost.
 - [rpc-websockets](https://github.com/elpheria/rpc-websockets) - JSON-RPC 2.0 implementation over WebSockets for Node.js and JavaScript/TypeScript.
 - [soketi](https://github.com/soketi/soketi) - Just another simple, fast, and resilient open-source WebSockets server. Built on top of uWebSockets.js.
+- [ZilaWS Server](https://zilaws.com) - A very easy-to-use and fast WS implementation with async/await eventhandlers and extendable classes.
 
 ### Perl
 
@@ -239,6 +240,7 @@ A curated list of WebSockets related principles and technologies.
 ## Browser libraries
 
 - [WSGO](https://github.com/melishev/wsgo) - like Axios.js, only for WebSocket, adds handy debugging tools 
+- [ZilaWS Client](https://zilaws.com) - A very easy-to-use and fast WS implementation with async/await eventhandlers.
 
 ## Command-Line Interface (CLI) Tools
 
