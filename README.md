@@ -20,6 +20,7 @@ A curated list of WebSockets related principles and technologies.
   - [Java VM](#java-vm)
     - [Clojure](#clojure)
     - [Java](#java)
+    - [Kotlin](#kotlin)
     - [Scala](#scala)
   - [Julia](#julia)
   - [Node.js](#nodejs)
@@ -218,7 +219,8 @@ A curated list of WebSockets related principles and technologies.
 - [Websocket Core](https://github.com/bitwyre/websocket_core) - Rust Websocket server for periodic message broadcast
 - [Tungstenite](https://github.com/snapview/tungstenite-rs) - Lightweight stream-based WebSocket implementation
 - [Tokio-Tungstenite](https://github.com/snapview/tokio-tungstenite) - Tokio binding for Tungstenite, the Lightweight stream-based WebSocket implementation
-- [Fastwebsockets](https://github.com/denoland/fastwebsockets) - A fast RFC6455 WebSocket server implementation 
+- [Fastwebsockets](https://github.com/denoland/fastwebsockets) - A fast RFC6455 WebSocket server implementation
+- [uWebSockets](https://github.com/GenrikhFetischev/uwebsockets_rs) - Rust wrapper for the uWebSockets
 
 ### Swift
 
