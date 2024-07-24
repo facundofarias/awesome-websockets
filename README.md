@@ -219,6 +219,7 @@ A curated list of WebSockets related principles and technologies.
 - [Tungstenite](https://github.com/snapview/tungstenite-rs) - Lightweight stream-based WebSocket implementation
 - [Tokio-Tungstenite](https://github.com/snapview/tokio-tungstenite) - Tokio binding for Tungstenite, the Lightweight stream-based WebSocket implementation
 - [Fastwebsockets](https://github.com/denoland/fastwebsockets) - A fast RFC6455 WebSocket server implementation 
+- [Ratchet](https://github.com/swimos/ratchet) - Ratchet is a fast, lightweight and fully asynchronous implementation of the WebSocket protocol with support for extensions and Deflate.
 
 ### Swift
 
