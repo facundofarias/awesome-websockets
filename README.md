@@ -30,6 +30,8 @@ A curated list of WebSockets related principles and technologies.
   - [Rust](#rust)
   - [Swift](#swift)
   - [Protocols and APIs](#protocols-and-apis)
+- [GUI Testing Tools](#gui-testing-tools)
+- [Browser libraries](#browser-libraries)
 - [Command-Line Interface (CLI) Tools](#command-line-interface-cli-tools)
 - [Real Life Stories](#real-life-stories)
 - [Security](#security)
