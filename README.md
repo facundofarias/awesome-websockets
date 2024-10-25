@@ -246,6 +246,10 @@ A curated list of WebSockets related principles and technologies.
 - [WSGO](https://github.com/melishev/wsgo) - like Axios.js, only for WebSocket, adds handy debugging tools 
 - [ZilaWS Client](https://zilaws.com) - A very easy-to-use and fast WS implementation with async/await eventhandlers.
 
+## Visualization Tools
+
+- [Foxglove ws-protocol](https://github.com/foxglove/ws-protocol) - Websocket protocol for visualization of multimodal data.
+
 ## Command-Line Interface (CLI) Tools
 
 - [claws](https://github.com/thehowl/claws) - Awesome WebSocket Client - an interactive command line client for testing websocket servers.
