@@ -26,6 +26,7 @@ A curated list of WebSockets related principles and technologies.
   - [Perl](#perl)
   - [PHP](#php)
   - [Python](#python)
+  - [R](#r)
   - [Ruby](#ruby)
   - [Rust](#rust)
   - [Swift](#swift)
@@ -198,6 +199,12 @@ A curated list of WebSockets related principles and technologies.
 - [Starlette](https://www.starlette.io/websockets/)
 - [Simple Http Server](https://github.com/keijack/python-simple-http-server) A simple HTTP server, including support of numerous websocket events like `on_text_message`, `on_binary_message` etc. And even `on_binary_frame`.
 - [Picows](https://picows.readthedocs.io/en/stable/) - Ultra-fast WebSocket client and server library for asyncio.
+
+### R
+
+- [httpuv](https://cran.r-project.org/package=httpuv) - Provides low-level socket and protocol support for WebSocket (and HTTP) servers in R. Built on top of the [libuv](https://github.com/libuv/libuv) and [http-parser](https://github.com/nodejs/http-parser) C libraries.
+- [routr](https://cran.r-project.org/package=routr) - A simple router for WebSocket (and HTTP) requests in R.
+- [websocket](https://cran.r-project.org/package=websocket) - Provides a WebSocket client interface for R.
 
 ### Ruby
 
