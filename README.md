@@ -103,8 +103,8 @@ A curated list of WebSockets related principles and technologies.
 
 - [Arsd:CGI](https://github.com/adamdruppe/arsd) - Uniform server-side API for CGI, FastCGI, SCGI, and HTTP web applications. Offers both lower- and higher- level api options among other common (optional) things like websocket and event source serving support.
 - [Handy](https://github.com/andrewlalis/handy-httpd) - The simplest HTTP server for your D project.
+- [Lighttp](https://github.com/Kripth/lighttp) - Lightweight asynchronous HTTP and WebSocket server library for the D.
 - [Serverino](https://github.com/trikko/serverino) - Small and ready-to-go http server. Support for websockets included.
-- [Lighttp](https://github.com/Kripth/lighttp) - Lightweight asynchronous HTTP and WebSocket server library for the D
 - [Vibe.d](https://github.com/vibe-d/vibe.d) - High-performance asynchronous I/O, concurrency and web application toolkit written in D.
 - [Websocketd](https://github.com/o3o/websocketd) - A websocket server in D.
 
