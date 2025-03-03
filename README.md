@@ -258,6 +258,7 @@ A curated list of WebSockets related principles and technologies.
 - [Firecamp](https://firecamp.io/websocket) - Full-featured GUI WebSocket testing client which helps Dev team to test WebSocket events visually. Test APIs, save them in the project and share it with your team. 
 - [WebSocket King](https://websocketking.com) - A browser based WebSocket testing client that supports multiple simultanious connections, logs of incoming and outgoing messages, custom protocols and multiple projects.
 - [Simple WebSocket Client](https://chrome.google.com/webstore/detail/simple-websocket-client/pfdhoblngboilpfeibdedpjgfnlcodoo) - Simple WebSocket Client (Chrome Extension).
+- [Websocket Testing Tool](https://github.com/0xBison/websocket-testing-tool) - Websocket testing tool GUI built in Vue. Supports multiple concurrent connections
 
 ## Browser libraries
 
