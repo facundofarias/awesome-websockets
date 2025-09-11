@@ -204,7 +204,7 @@ A curated list of WebSockets related principles and technologies.
 - [Django Channels](https://channels.readthedocs.io/en/latest) - Extends [Django](https://www.djangoproject.com/) with  WebSocket, long-poll HTTP, task offloading and other async support.
 - [Websockets](https://websockets.readthedocs.io) ([code](https://github.com/aaugustin/websockets)) - Websockets is a library for developing WebSocket servers and clients in Python 3.
 - [Ws4py](https://ws4py.readthedocs.io/en/latest) - WebSocket package for Python.
-- [Autobahn.ws](http://autobahn.ws) - Open-source real-time framework for Web, Mobile & Internet of Things.
+- [Autobahn.ws](https://github.com/crossbario/autobahn-python) - Open-source real-time framework for Web, Mobile & Internet of Things.
 - [Tornado](http://www.tornadoweb.org/) - Tornado is a Python web framework and asynchronous networking library, originally developed at FriendFeed.
 - [WebSocket Benchmarker](https://github.com/healeycodes/websocket-benchmarker) - CLI tool for benchmarking WebSocket Servers.
 - [Starlette](https://www.starlette.io/websockets/)
