@@ -267,6 +267,7 @@ A curated list of WebSockets related principles and technologies.
 ## Visualization Tools
 
 - [Foxglove ws-protocol](https://github.com/foxglove/ws-protocol) - Websocket protocol for visualization of multimodal data.
+- [Moveet](https://github.com/ivannovazzi/moveet) - Real-time vehicle fleet simulator with A* pathfinding on real road networks, streaming vehicle positions over WebSocket with a live D3 map visualization.
 
 ## Command-Line Interface (CLI) Tools
 
