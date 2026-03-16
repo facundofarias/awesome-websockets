@@ -251,6 +251,8 @@ A curated list of WebSockets related principles and technologies.
 
 - [RFC6455](https://www.rfc-editor.org/rfc/rfc6455) - The WebSocket Protocol.
 - [The WebSocket API](https://websockets.spec.whatwg.org) - WebSockets - Living Standard.
+- [TikTool Live](https://tik.tools/docs) - Real-time TikTok LIVE stream events (chat, gifts, viewers) via WebSocket. SDKs for [Node.js](https://www.npmjs.com/package/tiktok-live-api) and [Python](https://pypi.org/project/tiktok-live-api/).
+
 
 ## GUI Testing Tools
 
