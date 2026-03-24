@@ -124,7 +124,8 @@ A curated list of WebSockets related principles and technologies.
 - [gotify/server](https://gotify.net/) - A simple server for sending and receiving messages in real-time per web socket.
 - [nhooyr/websocket](https://github.com/nhooyr/websocket) - A minimal and idiomatic WebSocket library for Go.
 - [Centrifuge](https://github.com/centrifugal/centrifuge) - Real-time messaging library for Go with scalability in mind.
-- [GWS](https://github.com/lxzan/gws) - Simple, fast, reliable websocket server & client, supports running over tcp/kcp/unix domain socket. 
+- [GWS](https://github.com/lxzan/gws) - Simple, fast, reliable websocket server & client, supports running over tcp/kcp/unix domain socket.
+- [Velaros](https://github.com/RobertWHurst/Velaros) - A lightweight framework with HTTP-style routing, bidirectional messaging, and middleware.
 
 ### Haskell
 
