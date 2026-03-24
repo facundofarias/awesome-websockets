@@ -211,6 +211,7 @@ A curated list of WebSockets related principles and technologies.
 - [Starlette](https://www.starlette.io/websockets/)
 - [Simple Http Server](https://github.com/keijack/python-simple-http-server) A simple HTTP server, including support of numerous websocket events like `on_text_message`, `on_binary_message` etc. And even `on_binary_frame`.
 - [Picows](https://picows.readthedocs.io/en/stable/) - Ultra-fast WebSocket client and server library for asyncio.
+- [WebRockets](https://github.com/ploMP4/webrockets) - Rust-powered WebSocket server with Django integration, message pattern matching, Pydantic validation, and more.
 
 ### R
 
