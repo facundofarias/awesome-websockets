@@ -44,6 +44,7 @@ A curated list of WebSockets related principles and technologies.
 - [License](#license)
 - [Contributing](#contributing)
 - [Acknowledgments](#acknowledgments)
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for real-time multi-agent coordination via WebSocket communication, automated task delegation, and event-driven orchestration. MIT licensed.
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
