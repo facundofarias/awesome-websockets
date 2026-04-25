@@ -126,6 +126,7 @@ A curated list of WebSockets related principles and technologies.
 - [Centrifuge](https://github.com/centrifugal/centrifuge) - Real-time messaging library for Go with scalability in mind.
 - [GWS](https://github.com/lxzan/gws) - Simple, fast, reliable websocket server & client, supports running over tcp/kcp/unix domain socket.
 - [Velaros](https://github.com/RobertWHurst/Velaros) - A lightweight framework with HTTP-style routing, bidirectional messaging, and middleware.
+- [KubeStellar Console](https://github.com/kubestellar/console) - AI-powered multi-cluster Kubernetes dashboard using WebSockets for real-time cluster communication and live observability streams.
 
 ### Haskell
 
