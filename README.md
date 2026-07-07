@@ -15,15 +15,17 @@ A curated list of WebSockets related principles and technologies.
   - [C++](#c-1)
   - [C\#](#c-2)
   - [D](#d)
+  - [Elixir](#elixir)
   - [Erlang](#erlang)
   - [Go](#go)
   - [Haskell](#haskell)
   - [Java VM](#java-vm)
     - [Clojure](#clojure)
     - [Java](#java)
+    - [Kotlin](#kotlin)
     - [Scala](#scala)
   - [Julia](#julia)
-  - [Node.js](#nodejs)
+  - [Node.js / JavaScript](#nodejs--javascript)
   - [Perl](#perl)
   - [PHP](#php)
   - [Python](#python)
@@ -32,12 +34,15 @@ A curated list of WebSockets related principles and technologies.
   - [Rust](#rust)
   - [Swift](#swift)
   - [Protocols and APIs](#protocols-and-apis)
+- [Managed / Hosted Services](#managed--hosted-services)
+- [GUI Testing Tools](#gui-testing-tools)
+- [Browser libraries](#browser-libraries)
+- [Visualization Tools](#visualization-tools)
 - [Command-Line Interface (CLI) Tools](#command-line-interface-cli-tools)
 - [Real Life Stories](#real-life-stories)
 - [Security](#security)
 - [Theory](#theory)
   - [Articles & Papers](#articles--papers)
-  - [Talks](#talks)
   - [Tutorials](#tutorials)
   - [Books](#books)
   - [Sites](#sites)
@@ -65,7 +70,7 @@ A curated list of WebSockets related principles and technologies.
 ### C
 
 - [Libwebsockets](https://libwebsockets.org) - It's a lightweight pure C library built to use minimal CPU and memory resources, and provide fast throughput in both directions as client or server.
-- [Libwebsock](https://github.com/payden/libwebsock) - C library for easy WebSockets server.
+- [civetweb](https://github.com/civetweb/civetweb) - Embedded C/C++ web server with WebSocket client and server support, easy to integrate.
 - [Websocket](https://github.com/mortzdk/Websocket) -  Websocket server written in C.
 - [facil.io](http://facil.io) - A server/framework library for web applications, including Websockets and native pub/sub.
 - [libuwsc](https://github.com/zhaojh329/libuwsc) - A Lightweight and fully asynchronous WebSocket client C library based on libubox for Embedded Linux.
@@ -81,10 +86,13 @@ A curated list of WebSockets related principles and technologies.
 - [Beast](https://github.com/boostorg/beast) - HTTP and WebSocket built on Boost.Asio in C++11.
 - [µWebSockets](https://github.com/uNetworking/uWebSockets) -  Highly scalable WebSocket server library.
 - [Simple-WebSocket-Server](https://github.com/eidheim/Simple-WebSocket-Server) -  A very simple, fast, multithreaded, platform independent WebSocket (WS) and WebSocket Secure (WSS) server and client library implemented using C++11, Boost.Asio and OpenSSL.
-- [UEWebsocket](https://github.com/feixuwu/UEWebsocket) - Unreal engine 4 websocket plugin for both c++ and blueprint developer.
 - [IXWebSocket](https://github.com/machinezone/IXWebSocket) - Lightweight C++11 multi-threaded client library with TLS support.
 - [LAppS](https://github.com/ITpC/LAppS) - LAppS - Lua Application Server for micro-services with default communication over WebSockets.
 - [libhv](https://github.com/ithewei/libhv) - A network library for developing TCP/UDP/SSL/HTTP/WebSocket client/server.
+- [Drogon](https://github.com/an-tao/drogon) - Fast C++14/17/20 HTTP application framework with built-in WebSocket controllers.
+- [Crow](https://github.com/CrowCpp/Crow) - Fast and easy-to-use C++ microframework for the web, with WebSocket support.
+- [Oat++](https://github.com/oatpp/oatpp) - Light and powerful C++ web framework with async WebSocket support and zero dependencies.
+- [POCO](https://github.com/pocoproject/poco) - C++ libraries for network-centric applications, including HTTP and WebSocket classes.
 
 ### C\#
 <!-- #c-2 anchor -->
@@ -98,6 +106,9 @@ A curated list of WebSockets related principles and technologies.
 - [WebSockets support in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/websockets?view=aspnetcore-2.1) - This article explains how to get started with WebSockets in ASP.NET Core.
 - [unity-websocket-server](https://github.com/shaunabanana/unity-websocket-server) - A simple, zero-dependency WebSocket server for Unity.
 - [websocket-sharp](https://github.com/sta/websocket-sharp) - A C# implementation of the WebSocket protocol client and server.
+- [websocket-client](https://github.com/Marfusios/websocket-client) - Reactive, reconnecting WebSocket client for .NET based on System.Net.WebSockets.
+- [Ninja.WebSockets](https://github.com/ninjasource/Ninja.WebSockets) - Standalone, high-performance C# WebSocket client and server implementation.
+- [Fleck](https://github.com/statianzo/Fleck) - Simple C# WebSocket server implementation with no dependencies.
 
 ### D
 
@@ -108,12 +119,20 @@ A curated list of WebSockets related principles and technologies.
 - [Vibe.d](https://github.com/vibe-d/vibe.d) - High-performance asynchronous I/O, concurrency and web application toolkit written in D.
 - [Websocketd](https://github.com/o3o/websocketd) - A websocket server in D.
 
+### Elixir
+
+- [Phoenix](https://github.com/phoenixframework/phoenix) - Productive Elixir web framework with Channels for realtime, scalable WebSocket communication.
+- [Phoenix LiveView](https://github.com/phoenixframework/phoenix_live_view) - Rich, realtime server-rendered UIs over WebSockets without writing JavaScript.
+- [Bandit](https://github.com/mtrudel/bandit) - Pure-Elixir HTTP and WebSocket server built for Plug and WebSock.
+- [WebSockex](https://github.com/Azolo/websockex) - Elixir WebSocket client library built on top of GenServer.
+
 ### Erlang
 
 - [Sockjs-erlang](https://github.com/sockjs/sockjs-erlang) - WebSocket emulation - Erlang server.
 - [Cowboy](https://github.com/ninenines/cowboy) - Small, fast, modular HTTP server written in Erlang.
 - [n2o](https://github.com/synrc/n2o) - Erlang web server on websockets.
 - [Kraken](https://github.com/Asana/kraken) - Distributed Pubsub Server for Realtime Apps.
+- [Gun](https://github.com/ninenines/gun) - Erlang HTTP/1.1, HTTP/2 and WebSocket client library.
 
 ### Go
 
@@ -122,11 +141,16 @@ A curated list of WebSockets related principles and technologies.
 - [Ws](https://github.com/gobwas/ws) - Tiny WebSocket library for Go.
 - [1m-go-websockets](https://github.com/eranyanay/1m-go-websockets) - Handling 1M websockets connections in Go.
 - [gotify/server](https://gotify.net/) - A simple server for sending and receiving messages in real-time per web socket.
-- [nhooyr/websocket](https://github.com/nhooyr/websocket) - A minimal and idiomatic WebSocket library for Go.
+- [coder/websocket](https://github.com/coder/websocket) - A minimal and idiomatic WebSocket library for Go (formerly nhooyr/websocket).
 - [Centrifuge](https://github.com/centrifugal/centrifuge) - Real-time messaging library for Go with scalability in mind.
 - [GWS](https://github.com/lxzan/gws) - Simple, fast, reliable websocket server & client, supports running over tcp/kcp/unix domain socket.
 - [Velaros](https://github.com/RobertWHurst/Velaros) - A lightweight framework with HTTP-style routing, bidirectional messaging, and middleware.
 - [KubeStellar Console](https://github.com/kubestellar/console) - AI-powered multi-cluster Kubernetes dashboard using WebSockets for real-time cluster communication and live observability streams.
+- [Melody](https://github.com/olahol/melody) - Minimalist framework for dealing with WebSocket sessions, including broadcasting and message buffering.
+- [Fiber WebSocket](https://github.com/gofiber/websocket) - WebSocket middleware for the Fiber web framework, built on Fasthttp.
+- [nbio](https://github.com/lesismal/nbio) - Non-blocking, event-driven networking framework with high-performance WebSocket support and low memory usage.
+- [greatws](https://github.com/antlabs/greatws) - Event-driven WebSocket server able to handle millions of connections with low memory.
+- [go-socket.io](https://github.com/googollee/go-socket.io) - Socket.IO library for Go, a realtime application framework.
 
 ### Haskell
 
@@ -140,23 +164,33 @@ A curated list of WebSockets related principles and technologies.
 - [Sente](https://github.com/ptaoussanis/sente) - Realtime web comms for Clojure/Script.
 - [Chord](https://github.com/jarohen/chord) - Library designed to bridge the gap between the triad of CLJ/CLJS, web-sockets and core.async.
 - [Luminusweb](http://www.luminusweb.net/docs/websockets.md) - Luminus is a Clojure micro-framework based on a set of lightweight libraries.
+- [http-kit](https://github.com/http-kit/http-kit) - Minimalist, high-performance HTTP server and client with async WebSocket support.
 
 #### Java
 
-- [Project Tyrus](https://tyrus.java.net/) - JSR 356: Java API for WebSocket - Reference Implementation.
+- [Project Tyrus](https://github.com/eclipse-ee4j/tyrus) - JSR 356: Java API for WebSocket - Reference Implementation.
 - [Java-WebSocket](https://github.com/TooTallNate/Java-WebSocket) - Barebones WebSocket client and server implementation written in 100% Java.
 - [Atmosphere](https://github.com/Atmosphere/atmosphere) - Realtime Client Server Framework for the JVM, supporting WebSockets with Cross-Browser Fallbacks.
 - [Webbit](https://github.com/webbit/webbit) - Java event based WebSocket and HTTP server.
 - [nv-websocket-client](https://github.com/TakahikoKawasaki/nv-websocket-client) - High-quality WebSocket client implementation in Java which.
+- [Netty](https://github.com/netty/netty) - Asynchronous event-driven network framework with full WebSocket codec support.
+- [Vert.x](https://github.com/eclipse-vertx/vert.x) - Reactive, polyglot toolkit for the JVM with first-class WebSocket client and server APIs.
+- [Undertow](https://github.com/undertow-io/undertow) - High-performance web server (WildFly's core) with a dedicated WebSocket API.
+- [Javalin](https://github.com/javalin/javalin) - Lightweight web framework for Java and Kotlin with simple WebSocket handlers.
 
 #### Kotlin
 
-- [Scarlet](https://github.com/Tinder/Scarlet) - Tinder's Retrofit inspired WebSocket client for Kotlin, Java, and Android
+- [Scarlet](https://github.com/Tinder/Scarlet) - Tinder's Retrofit inspired WebSocket client for Kotlin, Java, and Android.
+- [Ktor](https://github.com/ktorio/ktor) - JetBrains' Kotlin async framework with built-in WebSocket client and server support.
+- [OkHttp](https://github.com/square/okhttp) - HTTP client for the JVM and Android with a robust WebSocket client.
 
 #### Scala
 
 - [Play](https://www.playframework.com/documentation/2.5.x/ScalaWebSockets) - The high velocity web framework for Java and Scala.
 - [Finagle-websocket](https://github.com/finagle/finagle-websocket) - Finagle Websocket clients and servers.
+- [http4s](https://github.com/http4s/http4s) - Typeful, functional, streaming HTTP for Scala with WebSocket support.
+- [Apache Pekko HTTP](https://github.com/apache/pekko-http) - Streaming WebSocket client and server directives; the Apache-licensed Akka HTTP fork.
+- [ZIO HTTP](https://github.com/zio/zio-http) - High-performance, functional Scala HTTP library with WebSocket support built on ZIO.
 
 
 ### Julia
@@ -164,7 +198,7 @@ A curated list of WebSockets related principles and technologies.
 - [HTTP.jl](https://github.com/JuliaWeb/HTTP.jl) - HTTP library for Julia with support on Websockets.
 - [WebSockets.jl](https://github.com/JuliaWeb/WebSockets.jl) - A WebSockets library for Julia.
 
-### Node.js
+### Node.js / JavaScript
 
 - [Socket.IO](http://socket.io/) - Featuring the fastest and most reliable real-time engine.
 - [Nodejs-websocket](https://github.com/sitegui/nodejs-websocket) - Node.js module for websocket server and client.
@@ -183,6 +217,12 @@ A curated list of WebSockets related principles and technologies.
 - [rpc-websockets](https://github.com/elpheria/rpc-websockets) - JSON-RPC 2.0 implementation over WebSockets for Node.js and JavaScript/TypeScript.
 - [soketi](https://github.com/soketi/soketi) - Just another simple, fast, and resilient open-source WebSockets server. Built on top of uWebSockets.js.
 - [ZilaWS Server](https://zilaws.com) - A very easy-to-use and fast WS implementation with async/await eventhandlers and extendable classes.
+- [graphql-ws](https://github.com/enisdenjo/graphql-ws) - Coherent, zero-dependency, spec-compliant GraphQL over WebSocket server and client.
+- [y-websocket](https://github.com/yjs/y-websocket) - WebSocket connection provider for Yjs, enabling real-time collaborative editing and CRDT sync.
+- [Bun WebSockets](https://bun.sh/docs/api/websockets) - Native high-performance WebSocket server built into the Bun runtime with pub/sub support.
+- [Hono WebSocket Helper](https://hono.dev/docs/helpers/websocket) - Built-in WebSocket helper for the Hono framework across Cloudflare Workers, Bun, Deno, and Node.js.
+- [tRPC Subscriptions](https://trpc.io/docs/server/subscriptions) - End-to-end typesafe real-time subscriptions over WebSockets for TypeScript apps.
+- [PartySocket](https://github.com/partykit/partykit/tree/main/packages/partysocket) - Robust WebSocket client with automatic reconnection and buffering, usable against any WS server.
 
 ### Perl
 
@@ -213,6 +253,11 @@ A curated list of WebSockets related principles and technologies.
 - [Simple Http Server](https://github.com/keijack/python-simple-http-server) A simple HTTP server, including support of numerous websocket events like `on_text_message`, `on_binary_message` etc. And even `on_binary_frame`.
 - [Picows](https://picows.readthedocs.io/en/stable/) - Ultra-fast WebSocket client and server library for asyncio.
 - [WebRockets](https://github.com/ploMP4/webrockets) - Rust-powered WebSocket server with Django integration, message pattern matching, Pydantic validation, and more.
+- [python-socketio](https://github.com/miguelgrinberg/python-socketio) - Python implementation of the Socket.IO realtime client and server.
+- [simple-websocket](https://github.com/miguelgrinberg/simple-websocket) - Simple WebSocket server and client for Python built on WSGI/ASGI.
+- [Socketify.py](https://github.com/cirospaciari/socketify.py) - Fast WebSocket and HTTP server for Python built on uWebSockets, with ASGI/WSGI support.
+- [python-websocket-server](https://github.com/Pithikos/python-websocket-server) - Minimal, dependency-free WebSocket server written in pure Python.
+- [websocket-client](https://github.com/websocket-client/websocket-client) - Popular, long-standing synchronous client for Python.
 
 ### R
 
@@ -244,11 +289,19 @@ A curated list of WebSockets related principles and technologies.
 - [Fastwebsockets](https://github.com/denoland/fastwebsockets) - A fast RFC6455 WebSocket server implementation 
 - [Ratchet](https://github.com/swimos/ratchet) - Ratchet is a fast, lightweight and fully asynchronous implementation of the WebSocket protocol with support for extensions and Deflate.
 - [wtx](https://github.com/c410-f3r/wtx) - Client and server with encryption support.
+- [async-tungstenite](https://github.com/sdroege/async-tungstenite) - Async binding for Tungstenite, runtime-agnostic across async-std, tokio, and smol.
+- [rust-websocket](https://github.com/websockets-rs/rust-websocket) - RFC6455 library providing both synchronous and asynchronous client and server.
+- [ntex](https://github.com/ntex-rs/ntex) - Powerful, pragmatic and fast web framework with WebSocket support.
+- [tide-websockets](https://github.com/http-rs/tide-websockets) - WebSocket handler for the Tide web framework.
 
 ### Swift
 
 - [Vapor](https://vapor.codes) - A high level web framework for Swift.
 - [WebsocketKit](https://github.com/vapor/websocket-kit) - A low level WebSocket client library built on SwiftNIO.
+- [Starscream](https://github.com/daltoniam/Starscream) - Conforming WebSocket (RFC 6455) client library in Swift for iOS and macOS.
+- [SwiftNIO](https://github.com/apple/swift-nio) - Apple's cross-platform async event-driven network framework, a foundation for WebSocket servers.
+- [Hummingbird](https://github.com/hummingbird-project/hummingbird) - Lightweight, flexible Swift server framework on SwiftNIO with WebSocket support.
+- [socket.io-client-swift](https://github.com/socketio/socket.io-client-swift) - Official Socket.IO client for Swift.
 
 ### Protocols and APIs
 
@@ -257,17 +310,37 @@ A curated list of WebSockets related principles and technologies.
 - [TikTool Live](https://tik.tools/docs) - Real-time TikTok LIVE stream events (chat, gifts, viewers) via WebSocket. SDKs for [Node.js](https://www.npmjs.com/package/tiktok-live-api) and [Python](https://pypi.org/project/tiktok-live-api/).
 
 
+## Managed / Hosted Services
+
+- [Ably](https://ably.com) - Managed pub/sub realtime platform with WebSocket-based messaging, presence, and guaranteed delivery.
+- [Pusher Channels](https://pusher.com) - Hosted WebSocket API for pub/sub realtime features with client SDKs across platforms.
+- [PubNub](https://www.pubnub.com) - Realtime edge messaging platform delivering pub/sub over WebSockets at global scale.
+- [Cloudflare Durable Objects](https://developers.cloudflare.com/durable-objects/) - Stateful serverless coordination primitive commonly used to build WebSocket rooms and realtime backends at the edge.
+- [Cloudflare Workers WebSockets](https://developers.cloudflare.com/workers/runtime-apis/websockets/) - Native WebSocket support in Cloudflare Workers, including hibernatable connections.
+- [AWS API Gateway WebSocket APIs](https://docs.aws.amazon.com/apigateway/latest/developerguide/apigateway-websocket-api.html) - Managed WebSocket APIs that route messages to Lambda and other AWS backends.
+- [PartyKit](https://github.com/partykit/partykit) - Open-source platform for building realtime multiplayer apps on Cloudflare with a batteries-included WebSocket server abstraction.
+- [Liveblocks](https://www.liveblocks.io) - Hosted realtime collaboration infrastructure providing presence, storage, and comments over WebSockets.
+- [Supabase Realtime](https://supabase.com/docs/guides/realtime) - Realtime engine broadcasting Postgres changes, presence, and messages to clients over WebSockets.
+- [Momento Topics](https://www.gomomento.com) - Serverless pub/sub and caching service with realtime topics accessible over WebSockets.
+
 ## GUI Testing Tools
 
-- [Cleora](https://cleora.app) - A native macOS, iOS and iPadOS WebSocket client for testing and documenting APIs.
 - [Firecamp](https://firecamp.io/websocket) - Full-featured GUI WebSocket testing client which helps Dev team to test WebSocket events visually. Test APIs, save them in the project and share it with your team. 
 - [WebSocket King](https://websocketking.com) - A browser based WebSocket testing client that supports multiple simultanious connections, logs of incoming and outgoing messages, custom protocols and multiple projects.
 - [Simple WebSocket Client](https://chrome.google.com/webstore/detail/simple-websocket-client/pfdhoblngboilpfeibdedpjgfnlcodoo) - Simple WebSocket Client (Chrome Extension).
+- [Postman WebSocket](https://learning.postman.com/docs/sending-requests/websocket/create-a-websocket-request/) - Send and inspect raw WebSocket and Socket.IO requests inside Postman, with saved history and collections.
+- [Hoppscotch Realtime](https://hoppscotch.io/realtime) - Free, open-source browser client for testing WebSocket, SSE, Socket.IO and MQTT connections.
+- [Insomnia](https://insomnia.rest) - Open-source API client with native WebSocket request support alongside REST, GraphQL and gRPC.
+- [Bruno](https://www.usebruno.com) - Open-source, offline-first API client with WebSocket support and git-friendly plain-text collections.
+- [Apidog](https://apidog.com/websocket-testing/) - All-in-one API platform with a dedicated WebSocket debugging client for messages, params and auth.
+- [Thunder Client](https://www.thunderclient.com) - Lightweight VS Code REST and WebSocket client for testing connections without leaving the editor.
+- [WebSocket.in](https://www.websocket.in) - Browser-based WebSocket tester plus free public echo and broadcast endpoints for quick checks.
 
 ## Browser libraries
 
 - [WSGO](https://github.com/melishev/wsgo) - like Axios.js, only for WebSocket, adds handy debugging tools 
 - [ZilaWS Client](https://zilaws.com) - A very easy-to-use and fast WS implementation with async/await eventhandlers.
+- [react-use-websocket](https://github.com/robtaussig/react-use-websocket) - React hook for WebSocket connections with reconnection, message queueing, and shared connections.
 
 ## Visualization Tools
 
@@ -291,8 +364,6 @@ A curated list of WebSockets related principles and technologies.
 
 - [The top 10 realtime web apps](http://www.creativebloq.com/app-design/top-10-realtime-web-apps-5133752)
 - [Super sync sports](https://blog.chromium.org/2013/02/on-track-with-chrome-super-sync-sports.html)
-- [Firepad](https://firepad.io)
-- [JabbR](http://about.jabbr.net/)
 - [Kaazing](https://kaazing.com/)
 - [Taskade](https://taskade.com) - Real-time collaborative task lists and outlines.
 
@@ -301,10 +372,11 @@ A curated list of WebSockets related principles and technologies.
 - [WebSockets - An Introduction](https://gist.github.com/subudeepak/9897212) - The problems and some security implications of websockets - Cross-site WebSockets Scripting (XSWS).
 - [Hacking with WebSockets](https://media.blackhat.com/bh-us-12/Briefings/Shekyan/BH_US_12_Shekyan_Toukharian_Hacking_Websocket_Slides.pdf) - Talk on Blackhat USA 2012 Conference.
 - [Testing for WebSockets Security Vulnerabilities](https://portswigger.net/web-security/websockets) - Interactive vulnerable WebSocket demos that provide hands-on learning of WebSocket security risks
-- [Testing WebSockets](https://www.owasp.org/index.php/Testing_WebSockets_(OTG-CLIENT-010)) - This article is part of the new OWASP Testing Guide v4.
+- [Testing WebSockets](https://owasp.org/www-project-web-security-testing-guide/latest/4-Web_Application_Security_Testing/11-Client-side_Testing/10-Testing_WebSockets) - OWASP Web Security Testing Guide (WSTG), client-side WebSocket testing chapter.
 - [Websockets Auth](http://stratumsecurity.ghost.io/2016/06/13/websockets-auth) - Journey into WebSockets Authentication/Authorization.
 - [WebSocket Security](https://devcenter.heroku.com/articles/websocket-security) - The WebSocket protocol is a young technology, and brings with it some risks. Decades of experience have taught the web community some best practices around HTTP security, but the security best practices in the WebSocket world aren’t firmly established, and continue to evolve. Nevertheless, some themes have emerged and they are described in this article.
 - [Cross-Site WebSocket Hijacking](http://www.christian-schneider.net/CrossSiteWebSocketHijacking.html) - Cross-Site WebSocket Hijacking (CSWSH) - Web Application Security Blog.
+- [Cross-site WebSocket hijacking labs](https://portswigger.net/web-security/websockets/cross-site-websocket-hijacking) - PortSwigger deep-dive on CSWSH with interactive labs.
 
 ## Theory
 
@@ -322,25 +394,23 @@ A curated list of WebSockets related principles and technologies.
 - [Webpush Internet-Draft](https://martinthomson.github.io/drafts/draft-thomson-webpush-http2.html) - Generic Event Delivery Using HTTP Push.
 - [Full Stack Python](https://www.fullstackpython.com/websockets.html) - WebSockets on Python.
 - [Do you really need WebSockets?](https://blog.stanko.io/do-you-really-need-websockets-343aed40aa9b) - WebSockets explanation.
-- [Be lazy and test your WebSocket APIs with Firecamp](https://dev.to/firecamp/be-lazy-and-test-your-websocket-apis-with-firecamp-209e) - How to test Websocket in a team.
-
-### Talks
-
-- [Initial Steps to Use Websocket-rails](http://tgib23.github.io/blog/2014/08/03/first-post/) - This is the very initial steps to use websocket-rails.
 
 ### Tutorials
 
 - [Honeybadger.IO](http://blog.honeybadger.io/building-a-simple-websockets-server-from-scratch-in-ruby) - Building a simple websockets server from scratch in Ruby.
-- [Engineyard](https://blog.engineyard.com/2013/getting-started-with-ruby-and-websockets) - Getting Started with Ruby and WebSockets.
 - [David Walsh](https://davidwalsh.name/websocket) - WebSocket and Socket.IO.
 - [Implementing a WebSocket server with Node.js](https://medium.com/hackernoon/implementing-a-websocket-server-with-node-js-d9b78ec5ffa8).
 - [Lostmoa](https://lostmoa.com/tags/websocket/) - A collection of Django Channels WebSocket tutorials. 
 - [GeniePy](https://geniepy.com/blog/how-to-set-up-websockets-in-starlette/) - How to set up WebSockets in Starlette
+- [Writing WebSocket servers (MDN)](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API/Writing_WebSocket_servers) - MDN guide to implementing the server side of the WebSocket protocol from scratch.
+- [Writing WebSocket client applications (MDN)](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API/Writing_WebSocket_client_applications) - MDN reference for building browser WebSocket clients.
+- [WebSocket (javascript.info)](https://javascript.info/websocket) - Clear, modern chapter on the browser WebSocket API with runnable examples.
+- [Using WebSockets on Cloudflare Workers](https://developers.cloudflare.com/workers/examples/websockets/) - Official docs and example for handling WebSockets at the edge.
 
 
 ### Books
 
-- [WebSocket](http://shop.oreilly.com/product/0636920030485.do) - Lightweight Client-Server Communications. Andrew Lombardi.
+- [WebSocket](https://www.oreilly.com/library/view/~/9781449369262/) - Lightweight Client-Server Communications. Andrew Lombardi.
 - [The Definitive Guide to HTML5 WebSocket](http://www.apress.com/gp/book/9781430247401) - Build Real-Time Applications with HTML5. By Vanessa Wang, Frank Salim, and Peter Moskovits. Source Code [here](https://github.com/Apress/def-guide-to-html5-websocket).
 - [High Performance Browser Networking](https://hpbn.co/websocket/) - High Performance
 Browser Networking: WebSocket.
