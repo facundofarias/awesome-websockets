@@ -31,4 +31,5 @@ jobs:
           awesome_bot README.md
           --allow-dupe
           --allow-redirect
-          --white-list "libwebsockets.org,npmjs.com,oreilly.com"
+          --allow-timeout
+          --white-list "libwebsockets.org,npmjs.com,oreilly.com,medium.com,sitepoint.com,tornadoweb.org"
