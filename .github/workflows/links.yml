@@ -1,0 +1,34 @@
+name: Check Links
+
+on:
+  push:
+    branches: [master]
+  pull_request:
+  schedule:
+    # Weekly, Mondays 06:00 UTC — catches link rot over time.
+    - cron: '0 6 * * 1'
+
+jobs:
+  awesome_bot:
+    name: awesome_bot
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.3'
+
+      - name: Install awesome_bot
+        run: gem install awesome_bot
+
+      # Same check the old Travis config ran. The white-list holds domains
+      # that reject CI/bot traffic (403 / header quirks) but are live in a
+      # browser — without it they'd fail the build as false positives.
+      # Add a domain here only after manually confirming the link is fine.
+      - name: Check README links
+        run: >
+          awesome_bot README.md
+          --allow-dupe
+          --allow-redirect
+          --white-list "libwebsockets.org,npmjs.com,oreilly.com"
