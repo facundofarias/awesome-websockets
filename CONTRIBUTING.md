@@ -29,8 +29,9 @@ To keep this list curated rather than exhaustive, entries that point to a projec
 
 - The project should have **at least 30 GitHub stars** (or equivalent traction on its platform).
 - The repository should be **actively maintained** — not archived or abandoned.
+- The project should be **well documented** — a clear README, usage examples, and setup instructions so others can actually adopt it.
 - Prefer **one canonical entry per language/ecosystem** over many near-duplicate ports of the same tool.
-- If you are the author of the project, please disclose it in the pull request.
+- **Avoid self-promotion.** Submissions should benefit the community, not primarily advertise your own project; if you are the author, please disclose it in the pull request.
 
 Star count is a guideline, not a hard gate — a low-star project may still be accepted if it is the shared protocol or dependency that already-listed projects build on. Reference material (RFCs, specs, articles, talks) is exempt from the star criterion.
 
