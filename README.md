@@ -379,6 +379,7 @@ A curated list of WebSockets related principles and technologies.
 - [Super sync sports](https://blog.chromium.org/2013/02/on-track-with-chrome-super-sync-sports.html)
 - [Kaazing](https://kaazing.com/)
 - [Taskade](https://taskade.com) - Real-time collaborative task lists and outlines.
+- [Building ephemeral encrypted chat with Cloudflare Durable Objects](https://elm.chat/building-ephemeral-chat-cloudflare) - A real-world architecture walkthrough of a WebSocket relay with browser-side encryption, disposable client-held history, and explicit security tradeoffs.
 
 ## Security
 
