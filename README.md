@@ -348,6 +348,7 @@ A curated list of WebSockets related principles and technologies.
 - [Thunder Client](https://www.thunderclient.com) - Lightweight VS Code REST and WebSocket client for testing connections without leaving the editor.
 - [WebSocket.in](https://www.websocket.in) - Browser-based WebSocket tester plus free public echo and broadcast endpoints for quick checks.
 - [WebSocket King](https://websocketking.com) - A browser based WebSocket testing client that supports multiple simultanious connections, logs of incoming and outgoing messages, custom protocols and multiple projects.
+- [Wirepeek](https://chromewebstore.google.com/detail/wirepeek/ojoojkjcpibfddgcljlfbjobkcpcbejn) - Chrome DevTools panel that captures and decodes the live WebSocket traffic of the page being debugged (Socket.IO/Engine.IO framing, MessagePack, CBOR, gzip, JSON nested in string fields). Read-only inspector rather than a client.
 
 ## Browser libraries
 
