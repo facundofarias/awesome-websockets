@@ -329,6 +329,7 @@ A curated list of WebSockets related principles and technologies.
 - [AWS API Gateway WebSocket APIs](https://docs.aws.amazon.com/apigateway/latest/developerguide/apigateway-websocket-api.html) - Managed WebSocket APIs that route messages to Lambda and other AWS backends.
 - [Cloudflare Durable Objects](https://developers.cloudflare.com/durable-objects/) - Stateful serverless coordination primitive commonly used to build WebSocket rooms and realtime backends at the edge.
 - [Cloudflare Workers WebSockets](https://developers.cloudflare.com/workers/runtime-apis/websockets/) - Native WebSocket support in Cloudflare Workers, including hibernatable connections.
+- [Hibira](https://hibira.io) - Hosted WebSocket channels with presence and push notifications that speak the Pusher Channels protocol, so existing Pusher client and server SDKs work unchanged.
 - [Liveblocks](https://www.liveblocks.io) - Hosted realtime collaboration infrastructure providing presence, storage, and comments over WebSockets.
 - [Momento Topics](https://www.gomomento.com) - Serverless pub/sub and caching service with realtime topics accessible over WebSockets.
 - [PartyKit](https://github.com/partykit/partykit) - Open-source platform for building realtime multiplayer apps on Cloudflare with a batteries-included WebSocket server abstraction.
