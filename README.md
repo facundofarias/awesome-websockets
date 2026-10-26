@@ -345,6 +345,7 @@ A curated list of WebSockets related principles and technologies.
 - [Gostman](https://gostman.com) - Free, open-source desktop, web and CLI API client with WebSocket, Socket.IO and MQTT requests, saved messages, and variables in every message.
 - [Hoppscotch Realtime](https://hoppscotch.io/realtime) - Free, open-source browser client for testing WebSocket, SSE, Socket.IO and MQTT connections.
 - [Insomnia](https://insomnia.rest) - Open-source API client with native WebSocket request support alongside REST, GraphQL and gRPC.
+- [Mongrel](https://www.visorcraft.com/) - Desktop workbench with a WebSocket client, plus HTTP, GraphQL, and gRPC, alongside databases and terminals.
 - [Postman WebSocket](https://learning.postman.com/docs/sending-requests/websocket/create-a-websocket-request/) - Send and inspect raw WebSocket and Socket.IO requests inside Postman, with saved history and collections.
 - [Simple WebSocket Client](https://chrome.google.com/webstore/detail/simple-websocket-client/pfdhoblngboilpfeibdedpjgfnlcodoo) - Simple WebSocket Client (Chrome Extension).
 - [Thunder Client](https://www.thunderclient.com) - Lightweight VS Code REST and WebSocket client for testing connections without leaving the editor.
