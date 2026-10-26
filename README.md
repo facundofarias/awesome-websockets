@@ -342,6 +342,7 @@ A curated list of WebSockets related principles and technologies.
 - [Apidog](https://apidog.com/websocket-testing/) - All-in-one API platform with a dedicated WebSocket debugging client for messages, params and auth.
 - [Bruno](https://www.usebruno.com) - Open-source, offline-first API client with WebSocket support and git-friendly plain-text collections.
 - [Firecamp](https://firecamp.io/websocket) - Full-featured GUI WebSocket testing client which helps Dev team to test WebSocket events visually. Test APIs, save them in the project and share it with your team. 
+- [Gostman](https://gostman.com) - Free, open-source desktop, web and CLI API client with WebSocket, Socket.IO and MQTT requests, saved messages, and variables in every message.
 - [Hoppscotch Realtime](https://hoppscotch.io/realtime) - Free, open-source browser client for testing WebSocket, SSE, Socket.IO and MQTT connections.
 - [Insomnia](https://insomnia.rest) - Open-source API client with native WebSocket request support alongside REST, GraphQL and gRPC.
 - [Postman WebSocket](https://learning.postman.com/docs/sending-requests/websocket/create-a-websocket-request/) - Send and inspect raw WebSocket and Socket.IO requests inside Postman, with saved history and collections.
