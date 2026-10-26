@@ -152,6 +152,7 @@ A curated list of WebSockets related principles and technologies.
 - [Velaros](https://github.com/RobertWHurst/Velaros) - A lightweight framework with HTTP-style routing, bidirectional messaging, and middleware.
 - [Websocket](https://godoc.org/golang.org/x/net/websocket) - Package Websocket implements a client and server for the WebSocket protocol as specified in RFC 6455.
 - [Ws](https://github.com/gobwas/ws) - Tiny WebSocket library for Go.
+- [Ws-reconnect](https://github.com/sing198/ws-reconnect) - Resilient WebSocket client with automatic reconnection, exponential backoff, and heartbeat management.
 
 ### Haskell
 
