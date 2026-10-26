@@ -90,6 +90,7 @@ A curated list of WebSockets related principles and technologies.
 - [libhv](https://github.com/ithewei/libhv) - A network library for developing TCP/UDP/SSL/HTTP/WebSocket client/server.
 - [Oat++](https://github.com/oatpp/oatpp) - Light and powerful C++ web framework with async WebSocket support and zero dependencies.
 - [POCO](https://github.com/pocoproject/poco) - C++ libraries for network-centric applications, including HTTP and WebSocket classes.
+- [qbm-http](https://github.com/isndev/qbm-http) - HTTP/1.1, HTTP/2, HTTP/3 and WebSocket server and client built on the qb C++20 actor framework.
 - [QtWebSockets](http://wiki.qt.io/QtWebSockets) - The QtWebSockets module is an add-on for the Qt5 library.
 - [Simple-WebSocket-Server](https://github.com/eidheim/Simple-WebSocket-Server) -  A very simple, fast, multithreaded, platform independent WebSocket (WS) and WebSocket Secure (WSS) server and client library implemented using C++11, Boost.Asio and OpenSSL.
 - [Websocketpp](https://github.com/zaphoyd/websocketpp) - C++ Websocket client/server library.
