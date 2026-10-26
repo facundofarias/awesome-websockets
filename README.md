@@ -317,6 +317,7 @@ A curated list of WebSockets related principles and technologies.
 - [RFC8441](https://www.rfc-editor.org/rfc/rfc8441) - Bootstrapping WebSockets with HTTP/2.
 - [The WebSocket API](https://websockets.spec.whatwg.org) - WebSockets - Living Standard.
 - [Live Tennis API](https://docs.livetennisapi.com) - Real-time tennis score events (point-by-point state, serving, break points) streamed over WebSocket on paid tiers, with a free REST tier. SDKs for [Node.js](https://www.npmjs.com/package/livetennisapi) and [Python](https://pypi.org/project/livetennisapi/).
+- [OCPP 1.6-J by Example](https://www.buildbyravirai.com/blog/ocpp-1-6-j-messages-by-example-csms) - The EV charging protocol that runs as a WebSocket subprotocol, shown through the eight messages a charging backend handles, with real payloads.
 - [TikTokLive](https://github.com/isaackogan/TikTokLive/) - A TikTok LIVE API Client built in Python, with strict mypy type safety & a copyleft license. Real-time TikTok LIVE stream events (gifts, chats, etc.) over WebSocket.
 - [TikTok-Live-Connector](https://github.com/zerodytrash/TikTok-Live-Connector/) - Open source TikTok LIVE stream events API, with delivery over WebSocket. The predominant & native TypeScript library for TikTok LIVE integrations.
 - [TikTokLiveJava](https://github.com/jwdeveloper/TikTokLiveJava) - A TikTok LIVE API Client built in Java. Real-time TikTok LIVE stream events (gifts, chats, etc.) over WebSockets.
