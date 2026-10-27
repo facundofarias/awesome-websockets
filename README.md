@@ -316,6 +316,7 @@ A curated list of WebSockets related principles and technologies.
 - [RFC7692](https://www.rfc-editor.org/rfc/rfc7692) - Compression Extensions for WebSocket (permessage-deflate).
 - [RFC8441](https://www.rfc-editor.org/rfc/rfc8441) - Bootstrapping WebSockets with HTTP/2.
 - [The WebSocket API](https://websockets.spec.whatwg.org) - WebSockets - Living Standard.
+- [Hydromancer](https://hydromancer.xyz/data-streaming) - Real-time Hyperliquid trades, fills, orders, liquidations and L2/L4 order books over WebSocket on paid plans; event streams replay missed data when a client reconnects with its saved cursor.
 - [Live Tennis API](https://docs.livetennisapi.com) - Real-time tennis score events (point-by-point state, serving, break points) streamed over WebSocket on paid tiers, with a free REST tier. SDKs for [Node.js](https://www.npmjs.com/package/livetennisapi) and [Python](https://pypi.org/project/livetennisapi/).
 - [OCPP 1.6-J by Example](https://www.buildbyravirai.com/blog/ocpp-1-6-j-messages-by-example-csms) - The EV charging protocol that runs as a WebSocket subprotocol, shown through the eight messages a charging backend handles, with real payloads.
 - [TikTokLive](https://github.com/isaackogan/TikTokLive/) - A TikTok LIVE API Client built in Python, with strict mypy type safety & a copyleft license. Real-time TikTok LIVE stream events (gifts, chats, etc.) over WebSocket.
