@@ -332,6 +332,7 @@ A curated list of WebSockets related principles and technologies.
 - [Cloudflare Workers WebSockets](https://developers.cloudflare.com/workers/runtime-apis/websockets/) - Native WebSocket support in Cloudflare Workers, including hibernatable connections.
 - [Liveblocks](https://www.liveblocks.io) - Hosted realtime collaboration infrastructure providing presence, storage, and comments over WebSockets.
 - [Momento Topics](https://www.gomomento.com) - Serverless pub/sub and caching service with realtime topics accessible over WebSockets.
+- [Nhost](https://nhost.io) - Managed Postgres backend for agentic apps, with realtime GraphQL subscriptions over WebSockets.
 - [PartyKit](https://github.com/partykit/partykit) - Open-source platform for building realtime multiplayer apps on Cloudflare with a batteries-included WebSocket server abstraction.
 - [PubNub](https://www.pubnub.com) - Realtime edge messaging platform delivering pub/sub over WebSockets at global scale.
 - [Pusher Channels](https://pusher.com) - Hosted WebSocket API for pub/sub realtime features with client SDKs across platforms.
