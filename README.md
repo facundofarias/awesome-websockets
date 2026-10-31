@@ -248,6 +248,7 @@ A curated list of WebSockets related principles and technologies.
 
 - [aiohttp](https://github.com/aio-libs/aiohttp) - Asynchronous HTTP client/server framework for asyncio, with built-in WebSocket client and server support.
 - [Autobahn.ws](https://github.com/crossbario/autobahn-python) - Open-source real-time framework for Web, Mobile & Internet of Things.
+- [chanx](https://github.com/chanx-dev/chanx) - Typed WebSocket framework for Django Channels, FastAPI and other ASGI apps, with Pydantic validation, AsyncAPI 3.0 docs and generated clients.
 - [Django Channels](https://channels.readthedocs.io/en/latest) - Extends [Django](https://www.djangoproject.com/) with  WebSocket, long-poll HTTP, task offloading and other async support.
 - [FastAPI](https://github.com/fastapi/fastapi) - Modern, high-performance web framework for building APIs, with first-class WebSocket support.
 - [Picows](https://picows.readthedocs.io/en/stable/) - Ultra-fast WebSocket client and server library for asyncio.
