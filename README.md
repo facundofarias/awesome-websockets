@@ -210,6 +210,7 @@ A curated list of WebSockets related principles and technologies.
 - [Hono WebSocket Helper](https://hono.dev/docs/helpers/websocket) - Built-in WebSocket helper for the Hono framework across Cloudflare Workers, Bun, Deno, and Node.js.
 - [netflux](https://coast-team.github.io/netflux/) - JavaScript client and server side transport API based on WebRTC & WebSocket
 - [Nodejs-websocket](https://github.com/sitegui/nodejs-websocket) - Node.js module for websocket server and client.
+- [oRPC](https://orpc.dev/docs/adapters/websocket) - End-to-end typesafe RPC with streaming over WebSockets for Node.js, Bun, Deno, browsers and Cloudflare Workers.
 - [PartySocket](https://github.com/partykit/partykit/tree/main/packages/partysocket) - Robust WebSocket client with automatic reconnection and buffering, usable against any WS server.
 - [rpc-websockets](https://github.com/elpheria/rpc-websockets) - JSON-RPC 2.0 implementation over WebSockets for Node.js and JavaScript/TypeScript.
 - [Socket.IO](http://socket.io/) - Featuring the fastest and most reliable real-time engine.
