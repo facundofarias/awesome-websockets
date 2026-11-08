@@ -354,6 +354,7 @@ A curated list of WebSockets related principles and technologies.
 ## Browser libraries
 
 - [react-use-websocket](https://github.com/robtaussig/react-use-websocket) - React hook for WebSocket connections with reconnection, message queueing, and shared connections.
+- [tanstack-fetch](https://github.com/mohamadgarmabi/tanstack-fetch) - Typed fetch client with WebSocket, SSE and WebTransport support, browser-safe auth (query or subprotocol), fresh token on every reconnect, and a send queue before open.
 - [WSGO](https://github.com/melishev/wsgo) - like Axios.js, only for WebSocket, adds handy debugging tools 
 - [ZilaWS Client](https://zilaws.com) - A very easy-to-use and fast WS implementation with async/await eventhandlers.
 
