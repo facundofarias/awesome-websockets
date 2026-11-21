@@ -208,6 +208,7 @@ A curated list of WebSockets related principles and technologies.
 - [faye-websocket-node](https://github.com/faye/faye-websocket-node) - Standards-compliant WebSocket client and server.
 - [graphql-ws](https://github.com/enisdenjo/graphql-ws) - Coherent, zero-dependency, spec-compliant GraphQL over WebSocket server and client.
 - [Hono WebSocket Helper](https://hono.dev/docs/helpers/websocket) - Built-in WebSocket helper for the Hono framework across Cloudflare Workers, Bun, Deno, and Node.js.
+- [HyperFetch Sockets](https://github.com/BetterTyped/hyper-fetch/tree/main/packages/sockets) - Type-safe WebSocket and Server-Sent Events client for TypeScript with reconnects, backoff, heartbeat, and offline message buffering.
 - [netflux](https://coast-team.github.io/netflux/) - JavaScript client and server side transport API based on WebRTC & WebSocket
 - [Nodejs-websocket](https://github.com/sitegui/nodejs-websocket) - Node.js module for websocket server and client.
 - [PartySocket](https://github.com/partykit/partykit/tree/main/packages/partysocket) - Robust WebSocket client with automatic reconnection and buffering, usable against any WS server.
